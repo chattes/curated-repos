@@ -22,7 +22,11 @@
     "Postiz",
     "ai-job-search",
     "Hallmark",
-    "MotionSites"
+    "MotionSites",
+    "Hyperframes",
+    "Matt Pocock's Skills",
+    "Rea",
+    "Diagram Design"
   ],
   "ai-skill": [
     "Archify",
@@ -44,7 +48,8 @@
     "Postiz",
     "ai-job-search",
     "Hallmark",
-    "MotionSites"
+    "MotionSites",
+    "Matt Pocock's Skills"
   ],
   "architecture": [
     "Archify"
@@ -69,7 +74,11 @@
     "ai-job-search",
     "DeepTutor",
     "Hallmark",
-    "MotionSites"
+    "MotionSites",
+    "VoiceStudio",
+    "Hyperframes",
+    "Matt Pocock's Skills",
+    "Diagram Design"
   ],
   "education": [
     "Archify",
@@ -126,7 +135,8 @@
     "Elephant-Goldfish",
     "claude-seo",
     "ai-job-search",
-    "Hallmark"
+    "Hallmark",
+    "Diagram Design"
   ],
   "science": [
     "Archify",
@@ -151,7 +161,10 @@
     "Hindsight",
     "RTA Smriti Brain",
     "YouTube Subscriptions Ingest",
-    "Reimagine It"
+    "Reimagine It",
+    "VoiceStudio",
+    "Hyperframes",
+    "Shaders"
   ],
   "browser": [
     "God's Eye View",
@@ -161,7 +174,8 @@
     "RTA Smriti Brain",
     "claude-seo",
     "Hallmark",
-    "MotionSites"
+    "MotionSites",
+    "Shaders"
   ],
   "data-science": [
     "God's Eye View",
@@ -191,7 +205,8 @@
     "RTA Smriti Brain",
     "Radiant",
     "claude-seo",
-    "Hallmark"
+    "Hallmark",
+    "VoiceStudio"
   ],
   "memory": [
     "Go Modern Guidelines",
@@ -224,5 +239,14 @@
   ],
   "job-search": [
     "ai-job-search"
+  ],
+  "audio": [
+    "VoiceStudio"
+  ],
+  "productivity": [
+    "Laya"
+  ],
+  "reverse-engineering": [
+    "Rea"
   ]
 }
