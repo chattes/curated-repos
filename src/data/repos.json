@@ -12,7 +12,8 @@
     "stars": "92000",
     "language": "JavaScript",
     "topics": "agent-skills,ai-agents,architecture-diagram,claude-code,claude-skills,codex,coding-agents,deepseek-harness,developer-tools,diagrams,diagrams-as-code,dsh-plugin,flowchart,llm,mermaid,opencode,sequence-diagram,software-architecture,system-design,visualization",
-    "license": "Apache-2.0"
+    "license": "Apache-2.0",
+    "source": "source1"
   },
   {
     "id": 2,
@@ -27,7 +28,8 @@
     "stars": "61691",
     "language": "JavaScript",
     "topics": "3d-globe,cesium,flight-tracking,geospatial,geospatial-intelligence,gis,osint,photogrammetry,satellite-tracking,spatial-intelligence,webgl,worldview",
-    "license": "NOASSERTION"
+    "license": "NOASSERTION",
+    "source": "source1"
   },
   {
     "id": 3,
@@ -42,7 +44,8 @@
     "stars": "42014",
     "language": "TypeScript",
     "topics": "",
-    "license": "MIT"
+    "license": "MIT",
+    "source": "source1"
   },
   {
     "id": 4,
@@ -57,7 +60,8 @@
     "stars": "3909",
     "language": "Go",
     "topics": "ai-agents,coding-agent,developer-tools,go,golang,guidelines",
-    "license": "Apache-2.0"
+    "license": "Apache-2.0",
+    "source": "source1"
   },
   {
     "id": 5,
@@ -72,7 +76,8 @@
     "stars": "34221",
     "language": "TypeScript",
     "topics": "ai,ai-agent,ai-tools,cli,coding",
-    "license": "NOASSERTION"
+    "license": "NOASSERTION",
+    "source": "source1"
   },
   {
     "id": 6,
@@ -87,7 +92,8 @@
     "stars": "55488",
     "language": "Python",
     "topics": "agent-skills,ai-scientist,bioinformatics,chemoinformatics,claude,claude-skills,claudecode,clinical-research,computational-biology,data-analysis,drug-discovery,genomics,materials-science,metabolomics,proteomics,scientific-computing,scientific-visualization",
-    "license": "MIT"
+    "license": "MIT",
+    "source": "source1"
   },
   {
     "id": 7,
@@ -102,7 +108,8 @@
     "stars": "64680",
     "language": "Python",
     "topics": "artificial-intelligence,large-language-model",
-    "license": "Apache-2.0"
+    "license": "Apache-2.0",
+    "source": "source1"
   },
   {
     "id": 8,
@@ -117,7 +124,8 @@
     "stars": "25862",
     "language": "TypeScript",
     "topics": "backlink-analysis,google-search-console-mcp,keyword-research,mcp,seo,seo-agent,seo-audit,seo-automation,seo-skills,seo-tools,site-audit",
-    "license": "MIT"
+    "license": "MIT",
+    "source": "source1"
   },
   {
     "id": 9,
@@ -132,7 +140,8 @@
     "stars": "45998",
     "language": "Shell",
     "topics": "",
-    "license": "MIT"
+    "license": "MIT",
+    "source": "source1"
   },
   {
     "id": 10,
@@ -147,7 +156,8 @@
     "stars": "34880",
     "language": "Python",
     "topics": "",
-    "license": "Apache-2.0"
+    "license": "Apache-2.0",
+    "source": "source1"
   },
   {
     "id": 11,
@@ -162,7 +172,8 @@
     "stars": "174",
     "language": "",
     "topics": "",
-    "license": "MIT"
+    "license": "MIT",
+    "source": "source1"
   },
   {
     "id": 12,
@@ -177,7 +188,8 @@
     "stars": "118",
     "language": "JavaScript",
     "topics": "ai-coding-agents,claude-code,codex-cli,local-first,macos,menubar-app,swiftui,usage-tracking",
-    "license": "NOASSERTION"
+    "license": "NOASSERTION",
+    "source": "source1"
   },
   {
     "id": 13,
@@ -192,7 +204,8 @@
     "stars": "84",
     "language": "Rust",
     "topics": "",
-    "license": ""
+    "license": "",
+    "source": "source1"
   },
   {
     "id": 14,
@@ -207,7 +220,8 @@
     "stars": "94",
     "language": "Python",
     "topics": "ai-agents,claude-code,codex,context-engineering,developer-tools,knowledge-graph,local-first,mcp,second-brain,sqlite",
-    "license": "MIT"
+    "license": "MIT",
+    "source": "source1"
   },
   {
     "id": 15,
@@ -222,7 +236,8 @@
     "stars": "187",
     "language": "Python",
     "topics": "",
-    "license": "MIT"
+    "license": "MIT",
+    "source": "source1"
   },
   {
     "id": 16,
@@ -237,7 +252,8 @@
     "stars": "212",
     "language": "JavaScript",
     "topics": "agent-skill,agent-skills,claude,claude-code,cli,content-derived-design,copilot,cursor,data-visualization,design,gemini,html,infographic,mcp,npx,svg,threejs,webgl",
-    "license": "MIT"
+    "license": "MIT",
+    "source": "source1"
   },
   {
     "id": 17,
@@ -252,6 +268,151 @@
     "stars": "117",
     "language": "JavaScript",
     "topics": "ai,ai-agents,app,claude,coding-agent,developer-tools,electron,llm,local-llm,macos,ollama,openai,react",
-    "license": "MIT"
+    "license": "MIT",
+    "source": "source1"
+  },
+  {
+    "id": 18,
+    "name": "Elephant-Goldfish",
+    "url": "https://github.com/google/elephant-goldfish-model",
+    "category": "featured",
+    "yt_summary": "Helps Claude catch mistakes before it writes code",
+    "description": "Open-source skills for designing and reviewing software with AI agents",
+    "purpose": "Open-source skills for designing and reviewing software with AI agents",
+    "how_to_use": "See repository README for setup instructions.",
+    "tags": "ai-agent,ai-skill,design,programming",
+    "stars": "7057",
+    "language": "Python",
+    "topics": "agent-skills,ai-agents,antigravity,claude-code,claude-code-plugin,claude-skills,codex,codex-plugin,coding-agents,context-engineering,developer-tools,gemini,llm,multi-agent,prompt-engineering,spec-driven-development",
+    "license": "Apache-2.0",
+    "source": "source2"
+  },
+  {
+    "id": 19,
+    "name": "BAMA",
+    "url": "https://github.com/daveebbelaar/bama",
+    "category": "featured",
+    "yt_summary": "Build native Mac apps with AI",
+    "description": "BAMA: Build Any Mac App. Agent skills to research, clone, design, build, optimize, and test native macOS apps with Swift and SwiftUI.",
+    "purpose": "BAMA: Build Any Mac App. Agent skills to research, clone, design, build, optimize, and test native macOS apps with Swift and SwiftUI.",
+    "how_to_use": "See repository README for setup instructions.",
+    "tags": "ai-agent,ai-skill,design,macos",
+    "stars": "1023",
+    "language": "Swift",
+    "topics": "agent-skills,ai-agents,app-clone,claude-code,claude-code-plugin,codex,computer-use,liquid-glass,macos,macos-app,native-apps,skills,swift,swiftdata,swiftui",
+    "license": "MIT",
+    "source": "source2"
+  },
+  {
+    "id": 20,
+    "name": "Open UI",
+    "url": "https://github.com/thesysdev/openui",
+    "category": "featured",
+    "yt_summary": "Turn AI answers into interactive charts and dashboards",
+    "description": "The Open Standard for Generative UI",
+    "purpose": "The Open Standard for Generative UI",
+    "how_to_use": "See repository README for setup instructions.",
+    "tags": "data-science,design",
+    "stars": "14533",
+    "language": "TypeScript",
+    "topics": "ag-ui,agent,agents,ai,generative-ui,javascript,langchain,llm,mastra,react",
+    "license": "MIT",
+    "source": "source2"
+  },
+  {
+    "id": 21,
+    "name": "claude-seo",
+    "url": "https://github.com/AgriciDaniel/claude-seo",
+    "category": "featured",
+    "yt_summary": "Audits your website and gives you a plan to improve SEO",
+    "description": "Universal SEO skill for Claude Code. 26 sub-skills + 19 sub-agents covering technical SEO, E-E-A-T, schema, GEO/AEO, agent readiness (Lighthouse Agentic Browsing, WebMCP, llms.txt), backlinks, local SEO, e-commerce, international SEO, Google APIs, and PDF/Excel reporting. 9 optional extensions for live SEO data.",
+    "purpose": "Universal SEO skill for Claude Code. 26 sub-skills + 19 sub-agents covering technical SEO, E-E-A-T, schema, GEO/AEO, agent readiness (Lighthouse Agentic Browsing, WebMCP, llms.txt), backlinks, local SEO, e-commerce, international SEO, Google APIs, and PDF/Excel reporting. 9 optional extensions for live SEO data.",
+    "how_to_use": "See repository README for setup instructions.",
+    "tags": "ai-agent,ai-skill,browser,data-science,education,machine-learning,programming,seo",
+    "stars": "24837",
+    "language": "Python",
+    "topics": "ai,ai-seo,claude-code,claude-code-skill,marketing-automation,open-source,seo",
+    "license": "MIT",
+    "source": "source2"
+  },
+  {
+    "id": 22,
+    "name": "Postiz",
+    "url": "https://github.com/gitroomhq/postiz-app",
+    "category": "featured",
+    "yt_summary": "Put your social posts on one calendar and schedule them",
+    "description": "\ud83d\udce8 The ultimate agentic social media scheduling tool \ud83e\udd16",
+    "purpose": "\ud83d\udce8 The ultimate agentic social media scheduling tool \ud83e\udd16",
+    "how_to_use": "See repository README for setup instructions.",
+    "tags": "ai-agent,ai-skill,social-media",
+    "stars": "40292",
+    "language": "TypeScript",
+    "topics": "nextjs,open-source,open-source-social-media-scheduling-tool,oss,postiz-cloud,postiz-hosted,redis,scheduling-tool,social-media-scheduling-tool,typescript",
+    "license": "AGPL-3.0",
+    "source": "source2"
+  },
+  {
+    "id": 23,
+    "name": "ai-job-search",
+    "url": "https://github.com/ai-job-search-dev/ai-job-search",
+    "category": "featured",
+    "yt_summary": "Matches jobs to your CV and helps tailor applications",
+    "description": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.",
+    "purpose": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.",
+    "how_to_use": "See repository README for setup instructions.",
+    "tags": "ai-agent,ai-skill,design,job-search,macos,programming,social-media",
+    "stars": "68297",
+    "language": "Python",
+    "topics": "ai,ai-agents,career,claude-code,cover-letter,cv,interview-preparation,job-application,job-hunting,job-search,latex,resume",
+    "license": "MIT",
+    "source": "source2"
+  },
+  {
+    "id": 24,
+    "name": "DeepTutor",
+    "url": "https://github.com/HKUDS/DeepTutor",
+    "category": "featured",
+    "yt_summary": "Turns a PDF into a tutor that explains hard parts and quizzes you",
+    "description": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.",
+    "purpose": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.",
+    "how_to_use": "See repository README for setup instructions.",
+    "tags": "design,education",
+    "stars": "52419",
+    "language": "Python",
+    "topics": "ai-agents,ai-tutor,clawbot,cli-tool,deepresearch,interactive-learning,learning,multi-agent-systems,rag",
+    "license": "Apache-2.0",
+    "source": "source2"
+  },
+  {
+    "id": 25,
+    "name": "Hallmark",
+    "url": "https://github.com/Nutlope/hallmark",
+    "category": "featured",
+    "yt_summary": "AI-powered website builder \u2014 generate beautiful sites from a brief",
+    "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
+    "purpose": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
+    "how_to_use": "See repository README for setup instructions.",
+    "tags": "ai-agent,ai-skill,browser,design,machine-learning,programming",
+    "stars": "43553",
+    "language": "CSS",
+    "topics": "",
+    "license": "MIT",
+    "source": "source2"
+  },
+  {
+    "id": 26,
+    "name": "MotionSites",
+    "url": "https://github.com/Motionsites-AI/claude-skill",
+    "category": "featured",
+    "yt_summary": "Claude skill for building motion-rich websites from a brief",
+    "description": "Free Claude skill: make Claude build award-level, cinematic landing pages. By MotionSites.",
+    "purpose": "Free Claude skill: make Claude build award-level, cinematic landing pages. By MotionSites.",
+    "how_to_use": "See repository README for setup instructions.",
+    "tags": "ai-agent,ai-skill,browser,design",
+    "stars": "1245",
+    "language": "Python",
+    "topics": "",
+    "license": "NOASSERTION",
+    "source": "source2"
   }
 ]

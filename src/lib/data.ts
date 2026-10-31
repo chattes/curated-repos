@@ -15,6 +15,7 @@ export interface Repo {
   language: string;
   topics: string;
   license: string;
+  source?: string;
 }
 
 export const repos: Repo[] = reposData as Repo[];

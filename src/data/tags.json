@@ -15,7 +15,14 @@
     "Cortex Suite",
     "RTA Smriti Brain",
     "Reimagine It",
-    "Radiant"
+    "Radiant",
+    "Elephant-Goldfish",
+    "BAMA",
+    "claude-seo",
+    "Postiz",
+    "ai-job-search",
+    "Hallmark",
+    "MotionSites"
   ],
   "ai-skill": [
     "Archify",
@@ -30,7 +37,14 @@
     "RTA Smriti Brain",
     "YouTube Subscriptions Ingest",
     "Reimagine It",
-    "Radiant"
+    "Radiant",
+    "Elephant-Goldfish",
+    "BAMA",
+    "claude-seo",
+    "Postiz",
+    "ai-job-search",
+    "Hallmark",
+    "MotionSites"
   ],
   "architecture": [
     "Archify"
@@ -48,14 +62,23 @@
     "Cortex Suite",
     "RTA Smriti Brain",
     "YouTube Subscriptions Ingest",
-    "Reimagine It"
+    "Reimagine It",
+    "Elephant-Goldfish",
+    "BAMA",
+    "Open UI",
+    "ai-job-search",
+    "DeepTutor",
+    "Hallmark",
+    "MotionSites"
   ],
   "education": [
     "Archify",
     "OpenMAIC",
     "Go Modern Guidelines",
     "Hindsight",
-    "Cortex Suite"
+    "Cortex Suite",
+    "claude-seo",
+    "DeepTutor"
   ],
   "linux": [
     "Archify",
@@ -99,7 +122,11 @@
     "Cortex Suite",
     "RTA Smriti Brain",
     "YouTube Subscriptions Ingest",
-    "Reimagine It"
+    "Reimagine It",
+    "Elephant-Goldfish",
+    "claude-seo",
+    "ai-job-search",
+    "Hallmark"
   ],
   "science": [
     "Archify",
@@ -131,7 +158,10 @@
     "Scientific Agent Skills",
     "OpenSEO",
     "Omarchy",
-    "RTA Smriti Brain"
+    "RTA Smriti Brain",
+    "claude-seo",
+    "Hallmark",
+    "MotionSites"
   ],
   "data-science": [
     "God's Eye View",
@@ -141,7 +171,9 @@
     "TimesFM",
     "Model Deck",
     "RTA Smriti Brain",
-    "YouTube Subscriptions Ingest"
+    "YouTube Subscriptions Ingest",
+    "Open UI",
+    "claude-seo"
   ],
   "go-lang": [
     "Go Modern Guidelines",
@@ -157,7 +189,9 @@
     "TimesFM",
     "Model Deck",
     "RTA Smriti Brain",
-    "Radiant"
+    "Radiant",
+    "claude-seo",
+    "Hallmark"
   ],
   "memory": [
     "Go Modern Guidelines",
@@ -177,6 +211,18 @@
     "YouTube Subscriptions Ingest"
   ],
   "seo": [
-    "OpenSEO"
+    "OpenSEO",
+    "claude-seo"
+  ],
+  "macos": [
+    "BAMA",
+    "ai-job-search"
+  ],
+  "social-media": [
+    "Postiz",
+    "ai-job-search"
+  ],
+  "job-search": [
+    "ai-job-search"
   ]
 }
