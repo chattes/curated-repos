@@ -1,0 +1,101 @@
+[
+  {
+    "id": 1,
+    "name": "Pexo",
+    "url": "https://pexo.ai/",
+    "tagline": "Create AI-powered launch videos",
+    "description": "Hi, I&#x27;m Pexo. The AI video agent that turns your ideas into videos. \u2014 Pexo is an AI Video Agent that turns ideas into videos through natural conversation. No advanced AI video generator skills required. Just tell Pexo your ideas.",
+    "tags": "ai-agent,ai-skill,design,startup,video",
+    "source": "video:c5ZkPhzaLdA"
+  },
+  {
+    "id": 2,
+    "name": "Spira AI",
+    "url": "https://spira.ai/",
+    "tagline": "Build AI influencers for brands",
+    "description": "The AI that runsyour entire social \u2014 Automate social media content creation, scheduling, publishing, and analytics in one AI social media manager for TikTok, Instagram, YouTube, X, and LinkedIn.",
+    "tags": "design,development,social-media",
+    "source": "video:c5ZkPhzaLdA"
+  },
+  {
+    "id": 3,
+    "name": "Hark",
+    "url": "https://hark.com/",
+    "tagline": "Agentic web browser with widgets",
+    "description": "At Hark, we are building the most advanced personal intelligence in the world.",
+    "tags": "ai-agent,browser,design,development,marketing",
+    "source": "video:c5ZkPhzaLdA"
+  },
+  {
+    "id": 4,
+    "name": "Claude for Startups",
+    "url": "https://claude.com/programs/startups",
+    "tagline": "Free AI credits for startups",
+    "description": "Claude Startups \u2014 The Claude for Startups program is Anthropic&#x27;s startup program for founders building on Claude. Get partner offers and support.",
+    "tags": "design,development,saas,startup",
+    "source": "video:c5ZkPhzaLdA"
+  },
+  {
+    "id": 5,
+    "name": "VMPal",
+    "url": "https://vmpal.com/",
+    "tagline": "Isolated virtual machines on demand",
+    "description": "Virtual Machines built for Apple silicon and AI agents \u2014 Fast macOS, Windows and Linux virtual machines for Apple silicon. VMPal downloads and installs each system for you, in minutes, in the VM&#39;s own window.",
+    "tags": "ai-agent,design,virtualization",
+    "source": "video:c5ZkPhzaLdA"
+  },
+  {
+    "id": 6,
+    "name": "Boring Funnels",
+    "url": "https://boringfunnels.com/",
+    "tagline": "Rebuild complete marketing funnels",
+    "description": "Build funnels that sell with the AI tools you already use. \u2014 Every week we take apart a real funnel whose ads are still running, from the ad to the last email, and prepare it for your agent to build from.",
+    "tags": "ai-agent,ai-skill,design,development,marketing",
+    "source": "video:c5ZkPhzaLdA"
+  },
+  {
+    "id": 7,
+    "name": "Skillry",
+    "url": "https://skillry.dev/",
+    "tagline": "Premium AI agent skills marketplace",
+    "description": "Skillry - Agent Skills with taste \u2014 Skillry designs original Agent Skills for Claude Code, Codex and Cursor. Install reusable SKILL.md workflows for slides, web pages, images and video.",
+    "tags": "ai-agent,ai-skill,browser,design,development,video",
+    "source": "video:c5ZkPhzaLdA"
+  },
+  {
+    "id": 8,
+    "name": "CreativeClaw",
+    "url": "https://creativeclaw.co/",
+    "tagline": "Creative tools for AI agents",
+    "description": "Generate Images, Video &amp; Audio \u2014 Create images, video ads, explainer videos, and talking avatars in ChatGPT. Clone voices, add voiceovers, and stay on-brand. Start with 100 free credits.",
+    "tags": "ai-agent,ai-skill,design,social-media,startup,video",
+    "source": "video:c5ZkPhzaLdA"
+  },
+  {
+    "id": 9,
+    "name": "vibe-code.ing",
+    "url": "https://vibe-code.ing/",
+    "tagline": "AI-powered directory builder",
+    "description": "A curated field guide to tools, references, and ideas for people building with code and AI.",
+    "tags": "ai-skill,design,development",
+    "source": "video:c5ZkPhzaLdA"
+  },
+  {
+    "id": 10,
+    "name": "TinyPopups",
+    "url": "https://tinypopups.com/",
+    "tagline": "Website conversion widgets",
+    "description": "TinyPopups \u2014 TinyPopups is a lightweight in-app messaging tool for SaaS. It shows feature announcements, NPS and feedback surveys, polls, hellobars, and upgrade nudges to the right users via event- and trait-based targeting \u2014 with one script tag, no CRM or CDP required, live in about 5 minutes.",
+    "tags": "ai-skill,browser,design,marketing,saas",
+    "source": "video:c5ZkPhzaLdA"
+  },
+  {
+    "id": 11,
+    "name": "ChatGPT Dots",
+    "url": "https://chatgpt.com/dots",
+    "tagline": "Manage Codex workflows with AI",
+    "description": "Error: HTTP Error 403: Forbidden",
+    "tags": "ai-agent,development",
+    "source": "video:c5ZkPhzaLdA"
+  }
+]

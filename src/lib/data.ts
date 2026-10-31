@@ -1,5 +1,34 @@
 import reposData from '@/data/repos.json';
 import tagsIndex from '@/data/tags.json';
+import productsData from '@/data/products.json';
+
+export interface Product {
+  id: number;
+  name: string;
+  url: string;
+  tagline: string;
+  description: string;
+  tags: string;
+  source?: string;
+}
+
+export const products: Product[] = productsData as Product[];
+
+export const allProductTags: string[] = [
+  ...new Set(products.flatMap((p) => p.tags.split(',').filter(Boolean))),
+].sort();
+
+export function getProductBySlug(slug: string): Product | undefined {
+  return products.find((p) => slugify(p.name) === slug);
+}
+
+export function getProductsByTag(tag: string): Product[] {
+  return products.filter((p) => p.tags.split(',').includes(tag));
+}
+
+export function getAllTags(): string[] {
+  return [...new Set([...allTags, ...allProductTags])].sort();
+}
 
 export interface Repo {
   id: number;

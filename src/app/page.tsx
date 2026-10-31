@@ -2,6 +2,7 @@
 
 import { useState, useMemo } from 'react';
 import { repos, allTags, getTagStats, slugify, type Repo } from '@/lib/data';
+import ProductsSection from './ProductsSection';
 import Link from 'next/link';
 
 function TagPill({ tag, active, onClick }: { tag: string; active: boolean; onClick: () => void }) {
@@ -144,6 +145,7 @@ export default function HomePage() {
           No repos match your filters. Try different tags or search terms.
         </div>
       )}
+      <ProductsSection />
     </>
   );
 }
