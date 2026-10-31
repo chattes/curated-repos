@@ -1,0 +1,182 @@
+{
+  "ai-agent": [
+    "Archify",
+    "God's Eye View",
+    "OpenMAIC",
+    "Go Modern Guidelines",
+    "OpenClaude",
+    "Scientific Agent Skills",
+    "MiniMind",
+    "OpenSEO",
+    "Omarchy",
+    "TimesFM",
+    "Hindsight",
+    "Model Deck",
+    "Cortex Suite",
+    "RTA Smriti Brain",
+    "Reimagine It",
+    "Radiant"
+  ],
+  "ai-skill": [
+    "Archify",
+    "Go Modern Guidelines",
+    "OpenClaude",
+    "Scientific Agent Skills",
+    "MiniMind",
+    "OpenSEO",
+    "Omarchy",
+    "Hindsight",
+    "Cortex Suite",
+    "RTA Smriti Brain",
+    "YouTube Subscriptions Ingest",
+    "Reimagine It",
+    "Radiant"
+  ],
+  "architecture": [
+    "Archify"
+  ],
+  "design": [
+    "Archify",
+    "God's Eye View",
+    "OpenMAIC",
+    "Go Modern Guidelines",
+    "OpenClaude",
+    "OpenSEO",
+    "Omarchy",
+    "Hindsight",
+    "Model Deck",
+    "Cortex Suite",
+    "RTA Smriti Brain",
+    "YouTube Subscriptions Ingest",
+    "Reimagine It"
+  ],
+  "education": [
+    "Archify",
+    "OpenMAIC",
+    "Go Modern Guidelines",
+    "Hindsight",
+    "Cortex Suite"
+  ],
+  "linux": [
+    "Archify",
+    "God's Eye View",
+    "OpenMAIC",
+    "Go Modern Guidelines",
+    "OpenClaude",
+    "Scientific Agent Skills",
+    "MiniMind",
+    "OpenSEO",
+    "Omarchy",
+    "TimesFM",
+    "Hindsight",
+    "Model Deck",
+    "Cortex Suite",
+    "RTA Smriti Brain",
+    "YouTube Subscriptions Ingest",
+    "Reimagine It",
+    "Radiant"
+  ],
+  "open-source": [
+    "Archify",
+    "God's Eye View",
+    "OpenClaude",
+    "Scientific Agent Skills",
+    "OpenSEO",
+    "Radiant"
+  ],
+  "programming": [
+    "Archify",
+    "God's Eye View",
+    "Go Modern Guidelines",
+    "OpenClaude",
+    "Scientific Agent Skills",
+    "MiniMind",
+    "OpenSEO",
+    "Omarchy",
+    "TimesFM",
+    "Hindsight",
+    "Model Deck",
+    "Cortex Suite",
+    "RTA Smriti Brain",
+    "YouTube Subscriptions Ingest",
+    "Reimagine It"
+  ],
+  "science": [
+    "Archify",
+    "OpenMAIC",
+    "Go Modern Guidelines",
+    "OpenClaude",
+    "Scientific Agent Skills",
+    "OpenSEO",
+    "TimesFM",
+    "Hindsight",
+    "RTA Smriti Brain",
+    "Reimagine It",
+    "Radiant"
+  ],
+  "video": [
+    "Archify",
+    "God's Eye View",
+    "Go Modern Guidelines",
+    "OpenClaude",
+    "Scientific Agent Skills",
+    "MiniMind",
+    "Hindsight",
+    "RTA Smriti Brain",
+    "YouTube Subscriptions Ingest",
+    "Reimagine It"
+  ],
+  "browser": [
+    "God's Eye View",
+    "Scientific Agent Skills",
+    "OpenSEO",
+    "Omarchy",
+    "RTA Smriti Brain"
+  ],
+  "data-science": [
+    "God's Eye View",
+    "Go Modern Guidelines",
+    "Scientific Agent Skills",
+    "OpenSEO",
+    "TimesFM",
+    "Model Deck",
+    "RTA Smriti Brain",
+    "YouTube Subscriptions Ingest"
+  ],
+  "go-lang": [
+    "Go Modern Guidelines",
+    "OpenSEO",
+    "Cortex Suite",
+    "YouTube Subscriptions Ingest"
+  ],
+  "machine-learning": [
+    "Go Modern Guidelines",
+    "OpenClaude",
+    "Scientific Agent Skills",
+    "MiniMind",
+    "TimesFM",
+    "Model Deck",
+    "RTA Smriti Brain",
+    "Radiant"
+  ],
+  "memory": [
+    "Go Modern Guidelines",
+    "Omarchy",
+    "Hindsight",
+    "Model Deck",
+    "Cortex Suite",
+    "RTA Smriti Brain",
+    "YouTube Subscriptions Ingest",
+    "Radiant"
+  ],
+  "monitoring": [
+    "OpenSEO",
+    "Omarchy",
+    "TimesFM",
+    "Model Deck",
+    "YouTube Subscriptions Ingest"
+  ],
+  "seo": [
+    "OpenSEO"
+  ]
+}
