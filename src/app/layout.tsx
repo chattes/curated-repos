@@ -29,14 +29,6 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
             <a href="/" className="font-bold text-lg text-white tracking-tight">
               📦 Repo Directory
             </a>
-            <a
-              href="https://youtu.be/AWzzmrCPe-A"
-              target="_blank"
-              rel="noopener noreferrer"
-              className="text-sm text-zinc-400 hover:text-zinc-200 transition-colors"
-            >
-              From The Next New Thing →
-            </a>
           </div>
         </nav>
         <main className="max-w-6xl mx-auto px-4 py-8">{children}</main>
