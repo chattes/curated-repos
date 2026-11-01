@@ -26,7 +26,11 @@
     "Hyperframes",
     "Matt Pocock's Skills",
     "Rea",
-    "Diagram Design"
+    "Diagram Design",
+    "mvanhorn/last30days-skill",
+    "coreyhaines31/marketingskills",
+    "Leonxlnx/taste-skill",
+    "SamurAIGPT/Generative-Media-Skills"
   ],
   "ai-skill": [
     "Archify",
@@ -49,7 +53,11 @@
     "ai-job-search",
     "Hallmark",
     "MotionSites",
-    "Matt Pocock's Skills"
+    "Matt Pocock's Skills",
+    "mvanhorn/last30days-skill",
+    "coreyhaines31/marketingskills",
+    "Leonxlnx/taste-skill",
+    "SamurAIGPT/Generative-Media-Skills"
   ],
   "architecture": [
     "Archify"
@@ -106,7 +114,8 @@
     "RTA Smriti Brain",
     "YouTube Subscriptions Ingest",
     "Reimagine It",
-    "Radiant"
+    "Radiant",
+    "mvanhorn/last30days-skill"
   ],
   "open-source": [
     "Archify",
@@ -114,7 +123,8 @@
     "OpenClaude",
     "Scientific Agent Skills",
     "OpenSEO",
-    "Radiant"
+    "Radiant",
+    "diwenne/openreply"
   ],
   "programming": [
     "Archify",
@@ -136,7 +146,9 @@
     "claude-seo",
     "ai-job-search",
     "Hallmark",
-    "Diagram Design"
+    "Diagram Design",
+    "coreyhaines31/marketingskills",
+    "SamurAIGPT/Generative-Media-Skills"
   ],
   "science": [
     "Archify",
@@ -149,7 +161,8 @@
     "Hindsight",
     "RTA Smriti Brain",
     "Reimagine It",
-    "Radiant"
+    "Radiant",
+    "mvanhorn/last30days-skill"
   ],
   "video": [
     "Archify",
@@ -164,7 +177,9 @@
     "Reimagine It",
     "VoiceStudio",
     "Hyperframes",
-    "Shaders"
+    "Shaders",
+    "mvanhorn/last30days-skill",
+    "SamurAIGPT/Generative-Media-Skills"
   ],
   "browser": [
     "God's Eye View",
@@ -175,7 +190,9 @@
     "claude-seo",
     "Hallmark",
     "MotionSites",
-    "Shaders"
+    "Shaders",
+    "mvanhorn/last30days-skill",
+    "Leonxlnx/taste-skill"
   ],
   "data-science": [
     "God's Eye View",
@@ -187,7 +204,8 @@
     "RTA Smriti Brain",
     "YouTube Subscriptions Ingest",
     "Open UI",
-    "claude-seo"
+    "claude-seo",
+    "coreyhaines31/marketingskills"
   ],
   "go-lang": [
     "Go Modern Guidelines",
@@ -227,11 +245,14 @@
   ],
   "seo": [
     "OpenSEO",
-    "claude-seo"
+    "claude-seo",
+    "coreyhaines31/marketingskills",
+    "jknigel/Valgist-AI-Marketing-Engine"
   ],
   "macos": [
     "BAMA",
-    "ai-job-search"
+    "ai-job-search",
+    "diwenne/openreply"
   ],
   "social-media": [
     "Postiz",
@@ -241,7 +262,8 @@
     "ai-job-search"
   ],
   "audio": [
-    "VoiceStudio"
+    "VoiceStudio",
+    "SamurAIGPT/Generative-Media-Skills"
   ],
   "productivity": [
     "Laya"
