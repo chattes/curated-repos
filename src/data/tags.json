@@ -30,7 +30,16 @@
     "mvanhorn/last30days-skill",
     "coreyhaines31/marketingskills",
     "Leonxlnx/taste-skill",
-    "SamurAIGPT/Generative-Media-Skills"
+    "SamurAIGPT/Generative-Media-Skills",
+    "magic-compact \u2014",
+    "headroom \u2014",
+    "pxpipe \u2014",
+    "token-optimizer-mcp \u2014",
+    "context-mode \u2014",
+    "ponytail \u2014",
+    "graphify \u2014",
+    "OmniRoute \u2014",
+    "codebase-memory-mcp \u2014"
   ],
   "ai-skill": [
     "Archify",
@@ -57,10 +66,18 @@
     "mvanhorn/last30days-skill",
     "coreyhaines31/marketingskills",
     "Leonxlnx/taste-skill",
-    "SamurAIGPT/Generative-Media-Skills"
+    "SamurAIGPT/Generative-Media-Skills",
+    "magic-compact \u2014",
+    "headroom \u2014",
+    "token-optimizer-mcp \u2014",
+    "context-mode \u2014",
+    "graphify \u2014",
+    "OmniRoute \u2014",
+    "codebase-memory-mcp \u2014"
   ],
   "architecture": [
-    "Archify"
+    "Archify",
+    "codebase-memory-mcp \u2014"
   ],
   "design": [
     "Archify",
@@ -86,7 +103,8 @@
     "VoiceStudio",
     "Hyperframes",
     "Matt Pocock's Skills",
-    "Diagram Design"
+    "Diagram Design",
+    "OmniRoute \u2014"
   ],
   "education": [
     "Archify",
@@ -95,7 +113,8 @@
     "Hindsight",
     "Cortex Suite",
     "claude-seo",
-    "DeepTutor"
+    "DeepTutor",
+    "graphify \u2014"
   ],
   "linux": [
     "Archify",
@@ -115,7 +134,10 @@
     "YouTube Subscriptions Ingest",
     "Reimagine It",
     "Radiant",
-    "mvanhorn/last30days-skill"
+    "mvanhorn/last30days-skill",
+    "magic-compact \u2014",
+    "token-optimizer-mcp \u2014",
+    "context-mode \u2014"
   ],
   "open-source": [
     "Archify",
@@ -148,7 +170,16 @@
     "Hallmark",
     "Diagram Design",
     "coreyhaines31/marketingskills",
-    "SamurAIGPT/Generative-Media-Skills"
+    "SamurAIGPT/Generative-Media-Skills",
+    "magic-compact \u2014",
+    "headroom \u2014",
+    "pxpipe \u2014",
+    "leanctx \u2014",
+    "token-optimizer-mcp \u2014",
+    "ponytail \u2014",
+    "graphify \u2014",
+    "OmniRoute \u2014",
+    "codebase-memory-mcp \u2014"
   ],
   "science": [
     "Archify",
@@ -162,7 +193,8 @@
     "RTA Smriti Brain",
     "Reimagine It",
     "Radiant",
-    "mvanhorn/last30days-skill"
+    "mvanhorn/last30days-skill",
+    "freellmapi \u2014"
   ],
   "video": [
     "Archify",
@@ -224,7 +256,11 @@
     "Radiant",
     "claude-seo",
     "Hallmark",
-    "VoiceStudio"
+    "VoiceStudio",
+    "freellmapi \u2014",
+    "headroom \u2014",
+    "leanctx \u2014",
+    "OmniRoute \u2014"
   ],
   "memory": [
     "Go Modern Guidelines",
@@ -234,14 +270,20 @@
     "Cortex Suite",
     "RTA Smriti Brain",
     "YouTube Subscriptions Ingest",
-    "Radiant"
+    "Radiant",
+    "magic-compact \u2014",
+    "pxpipe \u2014",
+    "token-optimizer-mcp \u2014",
+    "context-mode \u2014",
+    "codebase-memory-mcp \u2014"
   ],
   "monitoring": [
     "OpenSEO",
     "Omarchy",
     "TimesFM",
     "Model Deck",
-    "YouTube Subscriptions Ingest"
+    "YouTube Subscriptions Ingest",
+    "pxpipe \u2014"
   ],
   "seo": [
     "OpenSEO",
@@ -269,6 +311,7 @@
     "Laya"
   ],
   "reverse-engineering": [
-    "Rea"
+    "Rea",
+    "leanctx \u2014"
   ]
 }
