@@ -12,7 +12,15 @@ export interface Product {
   source?: string;
 }
 
-export const products: Product[] = productsData as Product[];
+function sanitizeDescription(text: string | undefined): string {
+  if (!text) return '';
+  return /^\s*(error|http error|failed)\b/i.test(text) ? '' : text;
+}
+
+export const products: Product[] = (productsData as Product[]).map((p) => ({
+  ...p,
+  description: sanitizeDescription(p.description),
+}));
 
 export const allProductTags: string[] = [
   ...new Set(products.flatMap((p) => p.tags.split(',').filter(Boolean))),
