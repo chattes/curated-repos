@@ -43,7 +43,16 @@
     "#8 Claude-Code-Game-Studios",
     "#6 claude-mem",
     "#3 auto-ontology",
-    "OpenShorts"
+    "OpenShorts",
+    "Agent Desktop \u2013 Desktop control for coding agents",
+    "Impeccable \u2013 Design skill for coding agents",
+    "Superpowers \u2013 Working method for coding agents",
+    "Anthropic Skills \u2013 Anthropic's own skill library",
+    "Worktrunk \u2013 Git worktrees for parallel agents",
+    "Interface Design Skills \u2013 Design review skills for agents",
+    "JetBrains Thinkrail \u2013 JetBrains' desktop app for agents",
+    "TokenSaver \u2013 Token-saving Claude/Codex plugin",
+    "Production Skeleton \u2013 Scaffolding skills for agents"
   ],
   "ai-skill": [
     "Archify",
@@ -80,7 +89,13 @@
     "codebase-memory-mcp",
     "#10 spec-kit",
     "#8 Claude-Code-Game-Studios",
-    "OpenShorts"
+    "OpenShorts",
+    "Impeccable \u2013 Design skill for coding agents",
+    "Superpowers \u2013 Working method for coding agents",
+    "Anthropic Skills \u2013 Anthropic's own skill library",
+    "Interface Design Skills \u2013 Design review skills for agents",
+    "TokenSaver \u2013 Token-saving Claude/Codex plugin",
+    "Production Skeleton \u2013 Scaffolding skills for agents"
   ],
   "architecture": [
     "Archify",
@@ -122,7 +137,11 @@
     "Penpot",
     "ListMonk",
     "RustDesk",
-    "FluidVoice"
+    "FluidVoice",
+    "Impeccable \u2013 Design skill for coding agents",
+    "Worktrunk \u2013 Git worktrees for parallel agents",
+    "Interface Design Skills \u2013 Design review skills for agents",
+    "Ghostty \u2013 Fast native terminal app"
   ],
   "education": [
     "Archify",
@@ -167,7 +186,10 @@
     "ListMonk",
     "RustDesk",
     "FluidVoice",
-    "MoneyPrinterTurbo"
+    "MoneyPrinterTurbo",
+    "Anthropic Skills \u2013 Anthropic's own skill library",
+    "Ghostty \u2013 Fast native terminal app",
+    "TokenSaver \u2013 Token-saving Claude/Codex plugin"
   ],
   "open-source": [
     "Archify",
@@ -232,7 +254,12 @@
     "#1 t3code",
     "OpenShorts",
     "RustDesk",
-    "Kdenlive"
+    "Kdenlive",
+    "Agent Desktop \u2013 Desktop control for coding agents",
+    "Superpowers \u2013 Working method for coding agents",
+    "Anthropic Skills \u2013 Anthropic's own skill library",
+    "Worktrunk \u2013 Git worktrees for parallel agents",
+    "TokenSaver \u2013 Token-saving Claude/Codex plugin"
   ],
   "science": [
     "Archify",
@@ -346,7 +373,8 @@
     "context-mode",
     "codebase-memory-mcp",
     "#6 claude-mem",
-    "#3 auto-ontology"
+    "#3 auto-ontology",
+    "TokenSaver \u2013 Token-saving Claude/Codex plugin"
   ],
   "monitoring": [
     "OpenSEO",
@@ -362,7 +390,9 @@
     "OpenSEO",
     "claude-seo",
     "coreyhaines31/marketingskills",
-    "jknigel/Valgist-AI-Marketing-Engine"
+    "jknigel/Valgist-AI-Marketing-Engine",
+    "Impeccable \u2013 Design skill for coding agents",
+    "Production Skeleton \u2013 Scaffolding skills for agents"
   ],
   "macos": [
     "BAMA",
@@ -375,11 +405,14 @@
     "AppFlowy",
     "Documenso",
     "RustDesk",
-    "FluidVoice"
+    "FluidVoice",
+    "TinyHand \u2013 Mac cursor toy and screen annotation",
+    "Ghostty \u2013 Fast native terminal app"
   ],
   "social-media": [
     "Postiz",
-    "ai-job-search"
+    "ai-job-search",
+    "TokenSaver \u2013 Token-saving Claude/Codex plugin"
   ],
   "job-search": [
     "ai-job-search",
@@ -392,7 +425,8 @@
     "SamurAIGPT/Generative-Media-Skills",
     "FluidVoice",
     "Voicebox",
-    "Rescript"
+    "Rescript",
+    "Subvox \u2013 Silent speech with AirPods"
   ],
   "productivity": [
     "Laya"
@@ -405,7 +439,9 @@
     "AppFlowy",
     "ListMonk",
     "RustDesk",
-    "FluidVoice"
+    "FluidVoice",
+    "JetBrains Thinkrail \u2013 JetBrains' desktop app for agents",
+    "Ghostty \u2013 Fast native terminal app"
   ],
   "general": [
     "#9 ziwei-doushu",
