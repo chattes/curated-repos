@@ -2,7 +2,7 @@
 
 import { useMemo, useState } from 'react';
 import Link from 'next/link';
-import { repos, products, slugify } from '@/lib/data';
+import { repos, products, repoSlug } from '@/lib/data';
 
 export default function SearchClient() {
   const [query, setQuery] = useState('');
@@ -65,7 +65,7 @@ export default function SearchClient() {
             {repoResults.map((r) => (
               <li key={r.id}>
                 <Link
-                  href={`/repo/${slugify(r.name)}`}
+                  href={`/repo/${repoSlug(r)}`}
                   className="block px-4 py-3 rounded-lg bg-zinc-900 border border-zinc-800 hover:border-zinc-600 transition-colors"
                 >
                   <span className="font-semibold text-white text-sm">{r.name}</span>

@@ -2,6 +2,7 @@
   {
     "id": 1,
     "name": "Archify",
+    "slug": "archify",
     "url": "https://github.com/tt-a1i/archify",
     "category": "featured",
     "yt_summary": "Turn system architecture into interactive, clickable diagrams",
@@ -18,6 +19,7 @@
   {
     "id": 2,
     "name": "God's Eye View",
+    "slug": "gods-eye-view",
     "url": "https://github.com/bilawalsidhu/gods-eye-view",
     "category": "featured",
     "yt_summary": "Track planes, ships, satellites, wildfires, cameras, and more from one interface",
@@ -34,6 +36,7 @@
   {
     "id": 3,
     "name": "OpenMAIC",
+    "slug": "openmaic",
     "url": "https://github.com/THU-MAIC/OpenMAIC",
     "category": "featured",
     "yt_summary": "Generate interactive AI-powered courses for almost any topic",
@@ -50,6 +53,7 @@
   {
     "id": 4,
     "name": "Go Modern Guidelines",
+    "slug": "go-modern-guidelines",
     "url": "https://github.com/JetBrains/go-modern-guidelines",
     "category": "featured",
     "yt_summary": "Help coding agents use current Go packages, features, and best practices",
@@ -66,6 +70,7 @@
   {
     "id": 5,
     "name": "OpenClaude",
+    "slug": "openclaude",
     "url": "https://github.com/Gitlawb/openclaude",
     "category": "featured",
     "yt_summary": "Run a Claude Code-style workflow with OpenAI, Gemini, DeepSeek, or local models",
@@ -82,6 +87,7 @@
   {
     "id": 6,
     "name": "Scientific Agent Skills",
+    "slug": "scientific-agent-skills",
     "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
     "category": "featured",
     "yt_summary": "Add 160+ specialized scientific research and lab skills to AI assistants",
@@ -98,6 +104,7 @@
   {
     "id": 7,
     "name": "MiniMind",
+    "slug": "minimind",
     "url": "https://github.com/jingyaogong/minimind",
     "category": "featured",
     "yt_summary": "Train small language models from scratch on regular hardware",
@@ -114,6 +121,7 @@
   {
     "id": 8,
     "name": "OpenSEO",
+    "slug": "openseo",
     "url": "https://github.com/every-app/open-seo",
     "category": "featured",
     "yt_summary": "Get a customizable, open-source alternative to expensive SEO platforms",
@@ -130,6 +138,7 @@
   {
     "id": 9,
     "name": "Omarchy",
+    "slug": "omarchy",
     "url": "https://github.com/omacom/omarchy",
     "category": "featured",
     "yt_summary": "Bring old laptops back to life with a customizable, AI-native Linux setup",
@@ -146,6 +155,7 @@
   {
     "id": 10,
     "name": "TimesFM",
+    "slug": "timesfm",
     "url": "https://github.com/google-research/timesfm",
     "category": "featured",
     "yt_summary": "Forecast time-series data with Google Research's prediction model",
@@ -162,6 +172,7 @@
   {
     "id": 11,
     "name": "Hindsight",
+    "slug": "hindsight",
     "url": "https://github.com/EfficientStreet/hindsight",
     "category": "audience",
     "yt_summary": "Help coding agents review past sessions and learn from their mistakes",
@@ -178,6 +189,7 @@
   {
     "id": 12,
     "name": "Model Deck",
+    "slug": "model-deck",
     "url": "https://github.com/timharris707/modeldeck",
     "category": "audience",
     "yt_summary": "See how much usage you have left across your AI subscriptions",
@@ -194,6 +206,7 @@
   {
     "id": 13,
     "name": "Cortex Suite",
+    "slug": "cortex-suite",
     "url": "https://github.com/Artistsyn/cortex_suite",
     "category": "audience",
     "yt_summary": "Give coding agents persistent memory and codebase context across sessions",
@@ -210,6 +223,7 @@
   {
     "id": 14,
     "name": "RTA Smriti Brain",
+    "slug": "rta-smriti-brain",
     "url": "https://github.com/sulabhdubey/rta-smriti-brain",
     "category": "audience",
     "yt_summary": "Preserve evidence-backed project memory between AI coding sessions",
@@ -226,6 +240,7 @@
   {
     "id": 15,
     "name": "YouTube Subscriptions Ingest",
+    "slug": "youtube-subscriptions-ingest",
     "url": "https://github.com/EfficientStreet/youtube-subscriptions-ingest",
     "category": "audience",
     "yt_summary": "Turn thousands of subscribed YouTube videos into searchable Markdown",
@@ -242,6 +257,7 @@
   {
     "id": 16,
     "name": "Reimagine It",
+    "slug": "reimagine-it",
     "url": "https://github.com/Kayforkind/reimagine-it",
     "category": "audience",
     "yt_summary": "Create reusable visual design systems that coding agents can directly understand",
@@ -258,6 +274,7 @@
   {
     "id": 17,
     "name": "Radiant",
+    "slug": "radiant",
     "url": "https://github.com/templetongroup/radiant",
     "category": "audience",
     "yt_summary": "Put multiple AI agents into one shared conversation where they can work together",
@@ -274,6 +291,7 @@
   {
     "id": 18,
     "name": "Elephant-Goldfish",
+    "slug": "elephant-goldfish",
     "url": "https://github.com/google/elephant-goldfish-model",
     "category": "featured",
     "yt_summary": "Helps Claude catch mistakes before it writes code",
@@ -290,6 +308,7 @@
   {
     "id": 19,
     "name": "BAMA",
+    "slug": "bama",
     "url": "https://github.com/daveebbelaar/bama",
     "category": "featured",
     "yt_summary": "Build native Mac apps with AI",
@@ -306,6 +325,7 @@
   {
     "id": 20,
     "name": "Open UI",
+    "slug": "open-ui",
     "url": "https://github.com/thesysdev/openui",
     "category": "featured",
     "yt_summary": "Turn AI answers into interactive charts and dashboards",
@@ -322,6 +342,7 @@
   {
     "id": 21,
     "name": "claude-seo",
+    "slug": "claude-seo",
     "url": "https://github.com/AgriciDaniel/claude-seo",
     "category": "featured",
     "yt_summary": "Audits your website and gives you a plan to improve SEO",
@@ -338,6 +359,7 @@
   {
     "id": 22,
     "name": "Postiz",
+    "slug": "postiz",
     "url": "https://github.com/gitroomhq/postiz-app",
     "category": "featured",
     "yt_summary": "Put your social posts on one calendar and schedule them",
@@ -354,6 +376,7 @@
   {
     "id": 23,
     "name": "ai-job-search",
+    "slug": "ai-job-search",
     "url": "https://github.com/ai-job-search-dev/ai-job-search",
     "category": "featured",
     "yt_summary": "Matches jobs to your CV and helps tailor applications",
@@ -370,6 +393,7 @@
   {
     "id": 24,
     "name": "DeepTutor",
+    "slug": "deeptutor",
     "url": "https://github.com/HKUDS/DeepTutor",
     "category": "featured",
     "yt_summary": "Turns a PDF into a tutor that explains hard parts and quizzes you",
@@ -386,6 +410,7 @@
   {
     "id": 25,
     "name": "Hallmark",
+    "slug": "hallmark",
     "url": "https://github.com/Nutlope/hallmark",
     "category": "featured",
     "yt_summary": "AI-powered website builder \u2014 generate beautiful sites from a brief",
@@ -402,6 +427,7 @@
   {
     "id": 26,
     "name": "MotionSites",
+    "slug": "motionsites",
     "url": "https://github.com/Motionsites-AI/claude-skill",
     "category": "featured",
     "yt_summary": "Claude skill for building motion-rich websites from a brief",
@@ -418,6 +444,7 @@
   {
     "id": 27,
     "name": "VoiceStudio",
+    "slug": "voicestudio",
     "url": "https://github.com/debpalash/VoiceStudio",
     "category": "featured",
     "yt_summary": "Clone your voice locally \u2014 run it entirely on your own machine",
@@ -434,6 +461,7 @@
   {
     "id": 28,
     "name": "Hyperframes",
+    "slug": "hyperframes",
     "url": "https://github.com/heygen-com/hyperframes",
     "category": "featured",
     "yt_summary": "Turn designs into editable videos",
@@ -450,6 +478,7 @@
   {
     "id": 29,
     "name": "Matt Pocock's Skills",
+    "slug": "matt-pocock-skills",
     "url": "https://github.com/mattpocock/skills",
     "category": "featured",
     "yt_summary": "Get Claude to ask better questions before it builds anything",
@@ -466,6 +495,7 @@
   {
     "id": 30,
     "name": "Laya",
+    "slug": "laya",
     "url": "https://github.com/NandhaKishorM/laya",
     "category": "featured",
     "yt_summary": "Sort emails and comments on your own computer locally",
@@ -482,6 +512,7 @@
   {
     "id": 31,
     "name": "Shaders",
+    "slug": "shaders",
     "url": "https://github.com/shader-effects-inc/shaders",
     "category": "featured",
     "yt_summary": "Add animated shader effects to websites",
@@ -498,6 +529,7 @@
   {
     "id": 32,
     "name": "Rea",
+    "slug": "rea",
     "url": "https://github.com/morluto/rea",
     "category": "featured",
     "yt_summary": "Reverse engineer how apps work by analyzing their behavior",
@@ -514,6 +546,7 @@
   {
     "id": 33,
     "name": "Diagram Design",
+    "slug": "diagram-design",
     "url": "https://github.com/cathrynlavery/diagram-design",
     "category": "featured",
     "yt_summary": "Turn an idea into a diagram instantly",
@@ -530,6 +563,7 @@
   {
     "id": 34,
     "name": "mvanhorn/last30days-skill",
+    "slug": "last30days-skill",
     "url": "https://github.com/mvanhorn/last30days-skill",
     "category": "featured",
     "yt_summary": "",
@@ -546,6 +580,7 @@
   {
     "id": 35,
     "name": "coreyhaines31/marketingskills",
+    "slug": "marketingskills",
     "url": "https://github.com/coreyhaines31/marketingskills",
     "category": "featured",
     "yt_summary": "",
@@ -562,6 +597,7 @@
   {
     "id": 36,
     "name": "Leonxlnx/taste-skill",
+    "slug": "taste-skill",
     "url": "https://github.com/Leonxlnx/taste-skill",
     "category": "featured",
     "yt_summary": "",
@@ -578,6 +614,7 @@
   {
     "id": 37,
     "name": "SamurAIGPT/Generative-Media-Skills",
+    "slug": "generative-media-skills",
     "url": "https://github.com/SamurAIGPT/Generative-Media-Skills",
     "category": "featured",
     "yt_summary": "",
@@ -594,6 +631,7 @@
   {
     "id": 38,
     "name": "jknigel/Valgist-AI-Marketing-Engine",
+    "slug": "valgist-ai-marketing-engine",
     "url": "https://github.com/jknigel/Valgist-AI-Marketing-Engine",
     "category": "featured",
     "yt_summary": "",
@@ -610,6 +648,7 @@
   {
     "id": 39,
     "name": "diwenne/openreply",
+    "slug": "openreply",
     "url": "https://github.com/diwenne/openreply",
     "category": "featured",
     "yt_summary": "",
@@ -626,6 +665,7 @@
   {
     "id": 40,
     "name": "freellmapi",
+    "slug": "freellmapi",
     "url": "https://github.com/tashfeenahmed/freellmapi",
     "category": "featured",
     "yt_summary": "",
@@ -642,6 +682,7 @@
   {
     "id": 41,
     "name": "magic-compact",
+    "slug": "magic-compact",
     "url": "https://github.com/aerovato/magic-compact",
     "category": "featured",
     "yt_summary": "",
@@ -658,6 +699,7 @@
   {
     "id": 42,
     "name": "headroom",
+    "slug": "headroom",
     "url": "https://github.com/headroomlabs-ai/headroom",
     "category": "featured",
     "yt_summary": "",
@@ -674,6 +716,7 @@
   {
     "id": 43,
     "name": "pxpipe",
+    "slug": "pxpipe",
     "url": "https://github.com/teamchong/pxpipe",
     "category": "featured",
     "yt_summary": "",
@@ -690,6 +733,7 @@
   {
     "id": 44,
     "name": "leanctx",
+    "slug": "leanctx",
     "url": "https://github.com/jia-gao/leanctx",
     "category": "featured",
     "yt_summary": "",
@@ -706,6 +750,7 @@
   {
     "id": 45,
     "name": "token-optimizer-mcp",
+    "slug": "token-optimizer-mcp",
     "url": "https://github.com/ooples/token-optimizer-mcp",
     "category": "featured",
     "yt_summary": "",
@@ -722,6 +767,7 @@
   {
     "id": 46,
     "name": "context-mode",
+    "slug": "context-mode",
     "url": "https://github.com/mksglu/context-mode",
     "category": "featured",
     "yt_summary": "",
@@ -738,6 +784,7 @@
   {
     "id": 47,
     "name": "ponytail",
+    "slug": "ponytail",
     "url": "https://github.com/DietrichGebert/ponytail",
     "category": "featured",
     "yt_summary": "",
@@ -754,6 +801,7 @@
   {
     "id": 48,
     "name": "graphify",
+    "slug": "graphify",
     "url": "https://github.com/Graphify-Labs/graphify",
     "category": "featured",
     "yt_summary": "",
@@ -770,6 +818,7 @@
   {
     "id": 49,
     "name": "OmniRoute",
+    "slug": "omniroute",
     "url": "https://github.com/diegosouzapw/OmniRoute",
     "category": "featured",
     "yt_summary": "",
@@ -786,6 +835,7 @@
   {
     "id": 50,
     "name": "codebase-memory-mcp",
+    "slug": "codebase-memory-mcp",
     "url": "https://github.com/DeusData/codebase-memory-mcp",
     "category": "featured",
     "yt_summary": "",
@@ -802,6 +852,7 @@
   {
     "id": 51,
     "name": "#10 spec-kit",
+    "slug": "spec-kit",
     "url": "https://github.com/github/spec-kit",
     "category": "featured",
     "yt_summary": "",
@@ -818,6 +869,7 @@
   {
     "id": 52,
     "name": "#9 ziwei-doushu",
+    "slug": "ziwei-doushu",
     "url": "https://github.com/Renhuai123/ziwei-doushu",
     "category": "featured",
     "yt_summary": "",
@@ -834,6 +886,7 @@
   {
     "id": 53,
     "name": "#8 Claude-Code-Game-Studios",
+    "slug": "claude-code-game-studios",
     "url": "https://github.com/Donchitos/Claude-Code-Game-Studios",
     "category": "featured",
     "yt_summary": "",
@@ -850,6 +903,7 @@
   {
     "id": 54,
     "name": "#6 claude-mem",
+    "slug": "claude-mem",
     "url": "https://github.com/thedotmack/claude-mem",
     "category": "featured",
     "yt_summary": "",
@@ -866,6 +920,7 @@
   {
     "id": 55,
     "name": "#5 OpenMausBot",
+    "slug": "openmausbot",
     "url": "https://github.com/milind-soni/OpenMausBot",
     "category": "featured",
     "yt_summary": "",
@@ -882,6 +937,7 @@
   {
     "id": 56,
     "name": "#4 Scrapling",
+    "slug": "scrapling",
     "url": "https://github.com/D4Vinci/Scrapling",
     "category": "featured",
     "yt_summary": "",
@@ -898,6 +954,7 @@
   {
     "id": 57,
     "name": "#3 auto-ontology",
+    "slug": "auto-ontology",
     "url": "https://github.com/NVIDIA/auto-ontology",
     "category": "featured",
     "yt_summary": "",
@@ -914,6 +971,7 @@
   {
     "id": 58,
     "name": "#1 t3code",
+    "slug": "t3code",
     "url": "https://github.com/pingdotgg/t3code",
     "category": "featured",
     "yt_summary": "",
@@ -930,6 +988,7 @@
   {
     "id": 59,
     "name": "Odysseus",
+    "slug": "odysseus",
     "url": "https://github.com/odysseus-dev/odysseus",
     "category": "featured",
     "yt_summary": "",
@@ -946,6 +1005,7 @@
   {
     "id": 60,
     "name": "Vane",
+    "slug": "vane",
     "url": "https://github.com/ItzCrazyKns/Vane",
     "category": "featured",
     "yt_summary": "",
@@ -962,6 +1022,7 @@
   {
     "id": 61,
     "name": "InvokeAI",
+    "slug": "invokeai",
     "url": "https://github.com/invoke-ai/InvokeAI",
     "category": "featured",
     "yt_summary": "",
@@ -978,6 +1039,7 @@
   {
     "id": 62,
     "name": "ACE-Step",
+    "slug": "ace-step",
     "url": "https://github.com/ace-step/ACE-Step-1.5",
     "category": "featured",
     "yt_summary": "",
@@ -994,6 +1056,7 @@
   {
     "id": 63,
     "name": "OpenShorts",
+    "slug": "openshorts",
     "url": "https://github.com/mutonby/openshorts",
     "category": "featured",
     "yt_summary": "",
@@ -1010,6 +1073,7 @@
   {
     "id": 64,
     "name": "Dyad",
+    "slug": "dyad",
     "url": "https://github.com/dyad-sh/dyad",
     "category": "featured",
     "yt_summary": "",
@@ -1026,6 +1090,7 @@
   {
     "id": 65,
     "name": "OpenManus",
+    "slug": "openmanus",
     "url": "https://github.com/FoundationAgents/OpenManus",
     "category": "featured",
     "yt_summary": "",
@@ -1042,6 +1107,7 @@
   {
     "id": 66,
     "name": "Upscayl",
+    "slug": "upscayl",
     "url": "https://github.com/upscayl/upscayl",
     "category": "featured",
     "yt_summary": "",
@@ -1058,6 +1124,7 @@
   {
     "id": 67,
     "name": "AppFlowy",
+    "slug": "appflowy",
     "url": "https://github.com/AppFlowy-IO/AppFlowy",
     "category": "featured",
     "yt_summary": "",
@@ -1074,6 +1141,7 @@
   {
     "id": 68,
     "name": "Immich",
+    "slug": "immich",
     "url": "https://github.com/immich-app/immich",
     "category": "featured",
     "yt_summary": "",
@@ -1090,6 +1158,7 @@
   {
     "id": 69,
     "name": "Documenso",
+    "slug": "documenso",
     "url": "https://github.com/documenso/documenso",
     "category": "featured",
     "yt_summary": "",
@@ -1106,6 +1175,7 @@
   {
     "id": 70,
     "name": "Excalidraw",
+    "slug": "excalidraw",
     "url": "https://github.com/excalidraw/excalidraw",
     "category": "featured",
     "yt_summary": "",
@@ -1122,6 +1192,7 @@
   {
     "id": 71,
     "name": "Penpot",
+    "slug": "penpot",
     "url": "https://github.com/penpot/penpot",
     "category": "featured",
     "yt_summary": "",
@@ -1138,6 +1209,7 @@
   {
     "id": 72,
     "name": "Cal.DIY",
+    "slug": "cal-diy",
     "url": "https://github.com/calcom/cal.diy",
     "category": "featured",
     "yt_summary": "",
@@ -1154,6 +1226,7 @@
   {
     "id": 73,
     "name": "ListMonk",
+    "slug": "listmonk",
     "url": "https://github.com/knadh/listmonk",
     "category": "featured",
     "yt_summary": "",
@@ -1170,6 +1243,7 @@
   {
     "id": 74,
     "name": "Dub",
+    "slug": "dub",
     "url": "https://github.com/dubinc/dub",
     "category": "featured",
     "yt_summary": "",
@@ -1186,6 +1260,7 @@
   {
     "id": 75,
     "name": "RustDesk",
+    "slug": "rustdesk",
     "url": "https://github.com/rustdesk/rustdesk",
     "category": "featured",
     "yt_summary": "",
@@ -1202,6 +1277,7 @@
   {
     "id": 76,
     "name": "FluidVoice",
+    "slug": "fluidvoice",
     "url": "https://github.com/altic-dev/FluidVoice",
     "category": "featured",
     "yt_summary": "",
@@ -1218,6 +1294,7 @@
   {
     "id": 77,
     "name": "Voicebox",
+    "slug": "voicebox",
     "url": "https://github.com/jamiepine/voicebox",
     "category": "featured",
     "yt_summary": "",
@@ -1234,6 +1311,7 @@
   {
     "id": 78,
     "name": "Kdenlive",
+    "slug": "kdenlive",
     "url": "https://github.com/KDE/kdenlive",
     "category": "featured",
     "yt_summary": "",
@@ -1250,6 +1328,7 @@
   {
     "id": 79,
     "name": "MoneyPrinterTurbo",
+    "slug": "moneyprinterturbo",
     "url": "https://github.com/harry0703/MoneyPrinterTurbo",
     "category": "featured",
     "yt_summary": "",
@@ -1266,6 +1345,7 @@
   {
     "id": 80,
     "name": "OBS Studio",
+    "slug": "obs-studio",
     "url": "https://github.com/obsproject/obs-studio",
     "category": "featured",
     "yt_summary": "",
@@ -1282,6 +1362,7 @@
   {
     "id": 81,
     "name": "Rescript",
+    "slug": "rescript",
     "url": "https://github.com/wassgha/rescript",
     "category": "featured",
     "yt_summary": "",
@@ -1298,6 +1379,7 @@
   {
     "id": 82,
     "name": "Agent Desktop \u2013 Desktop control for coding agents",
+    "slug": "agent-desktop",
     "url": "https://github.com/vercel-labs/agent-desktop",
     "category": "featured",
     "yt_summary": "",
@@ -1314,6 +1396,7 @@
   {
     "id": 83,
     "name": "Subvox \u2013 Silent speech with AirPods",
+    "slug": "subvox",
     "url": "https://github.com/joeblau/subvox",
     "category": "featured",
     "yt_summary": "",
@@ -1330,6 +1413,7 @@
   {
     "id": 84,
     "name": "TinyHand \u2013 Mac cursor toy and screen annotation",
+    "slug": "tinyhand",
     "url": "https://github.com/nilbuild/tinyhand",
     "category": "featured",
     "yt_summary": "",
@@ -1346,6 +1430,7 @@
   {
     "id": 85,
     "name": "Impeccable \u2013 Design skill for coding agents",
+    "slug": "impeccable-design-skill",
     "url": "https://github.com/pbakaus/impeccable",
     "category": "featured",
     "yt_summary": "",
@@ -1362,6 +1447,7 @@
   {
     "id": 86,
     "name": "Superpowers \u2013 Working method for coding agents",
+    "slug": "superpowers-agent-skills",
     "url": "https://github.com/obra/superpowers",
     "category": "featured",
     "yt_summary": "",
@@ -1378,6 +1464,7 @@
   {
     "id": 87,
     "name": "Anthropic Skills \u2013 Anthropic's own skill library",
+    "slug": "anthropic-skills",
     "url": "https://github.com/anthropics/skills",
     "category": "featured",
     "yt_summary": "",
@@ -1394,6 +1481,7 @@
   {
     "id": 88,
     "name": "Worktrunk \u2013 Git worktrees for parallel agents",
+    "slug": "worktrunk",
     "url": "https://github.com/max-sixty/worktrunk",
     "category": "featured",
     "yt_summary": "",
@@ -1410,6 +1498,7 @@
   {
     "id": 89,
     "name": "Interface Design Skills \u2013 Design review skills for agents",
+    "slug": "interface-design-skills",
     "url": "https://github.com/jakubkrehel/skills",
     "category": "featured",
     "yt_summary": "",
@@ -1426,6 +1515,7 @@
   {
     "id": 90,
     "name": "JetBrains Thinkrail \u2013 JetBrains' desktop app for agents",
+    "slug": "jetbrains-thinkrail",
     "url": "https://github.com/JetBrains/thinkrail",
     "category": "featured",
     "yt_summary": "",
@@ -1442,6 +1532,7 @@
   {
     "id": 91,
     "name": "Ghostty \u2013 Fast native terminal app",
+    "slug": "ghostty",
     "url": "https://github.com/ghostty-org/ghostty",
     "category": "featured",
     "yt_summary": "",
@@ -1458,6 +1549,7 @@
   {
     "id": 92,
     "name": "TokenSaver \u2013 Token-saving Claude/Codex plugin",
+    "slug": "tokensaver",
     "url": "https://github.com/Brucee/tokensaver",
     "category": "featured",
     "yt_summary": "",
@@ -1474,6 +1566,7 @@
   {
     "id": 93,
     "name": "Production Skeleton \u2013 Scaffolding skills for agents",
+    "slug": "production-skeleton",
     "url": "https://github.com/hallikkristjan-code/production-skeleton",
     "category": "featured",
     "yt_summary": "",
@@ -1490,6 +1583,7 @@
   {
     "id": 94,
     "name": "Lemo Opuscar",
+    "slug": "lemo-opuscar",
     "url": "https://github.com/lemomo-ai/lemo-opuscar",
     "category": "featured",
     "yt_summary": "",
@@ -1506,6 +1600,7 @@
   {
     "id": 95,
     "name": "Three.js",
+    "slug": "three-js",
     "url": "https://github.com/mrdoob/three.js",
     "category": "featured",
     "yt_summary": "",
@@ -1522,6 +1617,7 @@
   {
     "id": 96,
     "name": "pixelfx",
+    "slug": "pixelfx",
     "url": "https://github.com/patch-gg/pixelfx",
     "category": "featured",
     "yt_summary": "",
@@ -1538,6 +1634,7 @@
   {
     "id": 97,
     "name": "Blender MCP",
+    "slug": "blender-mcp",
     "url": "https://github.com/ahujasid/mcp-for-blender",
     "category": "featured",
     "yt_summary": "",
@@ -1554,6 +1651,7 @@
   {
     "id": 98,
     "name": "Opus 5.5 videos",
+    "slug": "opus-videos",
     "url": "https://github.com/yihui-dev/awesome-opus5-5-videos",
     "category": "featured",
     "yt_summary": "",
@@ -1570,6 +1668,7 @@
   {
     "id": 99,
     "name": "Opus video prompts",
+    "slug": "opus-video-prompts",
     "url": "https://github.com/joeseesun/opus-video-prompts",
     "category": "featured",
     "yt_summary": "",
@@ -1586,6 +1685,7 @@
   {
     "id": 100,
     "name": "Claude Animation Base",
+    "slug": "claude-animation-base",
     "url": "https://github.com/JohnHeibel/ClaudeAnimationBase",
     "category": "featured",
     "yt_summary": "",
@@ -1602,6 +1702,7 @@
   {
     "id": 101,
     "name": "React Rapier",
+    "slug": "react-rapier",
     "url": "https://github.com/pmndrs/react-three-rapier",
     "category": "featured",
     "yt_summary": "",
@@ -1618,6 +1719,7 @@
   {
     "id": 102,
     "name": "React Postprocessing",
+    "slug": "react-postprocessing",
     "url": "https://github.com/pmndrs/react-postprocessing",
     "category": "featured",
     "yt_summary": "",
@@ -1634,6 +1736,7 @@
   {
     "id": 103,
     "name": "librosa",
+    "slug": "librosa",
     "url": "https://github.com/librosa/librosa",
     "category": "featured",
     "yt_summary": "",
@@ -1650,6 +1753,7 @@
   {
     "id": 104,
     "name": "Video ShotCraft",
+    "slug": "video-shotcraft",
     "url": "https://github.com/Vincentwei1021/video-shotcraft",
     "category": "featured",
     "yt_summary": "",

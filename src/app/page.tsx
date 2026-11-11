@@ -1,7 +1,7 @@
 'use client';
 
 import { useState, useMemo } from 'react';
-import { repos, allTags, getTagStats, slugify, type Repo } from '@/lib/data';
+import { repos, allTags, getTagStats, repoSlug, type Repo } from '@/lib/data';
 import ProductsSection from './ProductsSection';
 import Link from 'next/link';
 
@@ -16,7 +16,7 @@ function TagPill({ tag, active, onClick }: { tag: string; active: boolean; onCli
 function RepoCard({ repo }: { repo: Repo }) {
   const tags = repo.tags.split(',').filter(Boolean);
   return (
-    <Link href={`/repo/${slugify(repo.name)}`} className={`card ${repo.category}`}>
+    <Link href={`/repo/${repoSlug(repo)}`} className={`card ${repo.category}`}>
       <div className="flex items-center gap-2 mb-2 flex-wrap">
         {repo.category === 'featured' ? (
           <span className="text-[10px] uppercase tracking-wider text-amber-400 font-semibold bg-amber-400/10 px-2 py-0.5 rounded">

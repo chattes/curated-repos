@@ -41,6 +41,7 @@ export function getAllTags(): string[] {
 export interface Repo {
   id: number;
   name: string;
+  slug?: string;
   url: string;
   category: 'featured' | 'audience';
   yt_summary: string;
@@ -60,12 +61,16 @@ export const repos: Repo[] = reposData as Repo[];
 export const allTags: string[] = Object.keys(tagsIndex).sort();
 
 export function getRepoBySlug(slug: string): Repo | undefined {
-  return repos.find((r) => slugify(r.name) === slug);
+  return repos.find((r) => repoSlug(r) === slug);
 }
 
 export function getReposByTag(tag: string): Repo[] {
   const names = new Set((tagsIndex as Record<string, string[]>)[tag] || []);
   return repos.filter((r) => names.has(r.name));
+}
+
+export function repoSlug(repo: Repo): string {
+  return repo.slug && repo.slug.length ? repo.slug : slugify(repo.name);
 }
 
 export function slugify(name: string): string {

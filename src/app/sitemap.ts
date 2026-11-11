@@ -1,4 +1,4 @@
-import { repos, allTags, slugify } from '@/lib/data';
+import { repos, allTags, repoSlug } from '@/lib/data';
 import { SITE_URL } from '@/lib/site';
 import { MetadataRoute } from 'next';
 
@@ -39,7 +39,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
   // Individual repo pages
   for (const repo of repos) {
     entries.push({
-      url: `${BASE_URL}/repo/${slugify(repo.name)}`,
+      url: `${BASE_URL}/repo/${repoSlug(repo)}`,
       lastModified: new Date(),
       changeFrequency: 'monthly',
       priority: 0.8,

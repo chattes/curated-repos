@@ -1,4 +1,4 @@
-import { repos, getRepoBySlug, slugify, type Repo } from '@/lib/data';
+import { repos, getRepoBySlug, repoSlug, type Repo } from '@/lib/data';
 import { Metadata } from 'next';
 import Link from 'next/link';
 import { notFound } from 'next/navigation';
@@ -8,7 +8,7 @@ interface Props {
 }
 
 export async function generateStaticParams() {
-  return repos.map((r) => ({ slug: slugify(r.name) }));
+  return repos.map((r) => ({ slug: repoSlug(r) }));
 }
 
 export async function generateMetadata({ params }: Props): Promise<Metadata> {

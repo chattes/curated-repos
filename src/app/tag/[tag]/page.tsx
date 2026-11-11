@@ -1,4 +1,4 @@
-import { allTags, getReposByTag, slugify } from '@/lib/data';
+import { allTags, getReposByTag, repoSlug } from '@/lib/data';
 import { Metadata } from 'next';
 import Link from 'next/link';
 import { notFound } from 'next/navigation';
@@ -41,7 +41,7 @@ export default async function TagPage({ params }: Props) {
         {repos.map((repo) => {
           const tags = repo.tags.split(',').filter(Boolean);
           return (
-            <Link key={repo.id} href={`/repo/${slugify(repo.name)}`} className={`card ${repo.category}`}>
+            <Link key={repo.id} href={`/repo/${repoSlug(repo)}`} className={`card ${repo.category}`}>
               <div className="flex items-center gap-2 mb-2 flex-wrap">
                 {repo.category === 'featured' ? (
                   <span className="text-[10px] uppercase tracking-wider text-amber-400 font-semibold bg-amber-400/10 px-2 py-0.5 rounded">Featured</span>
