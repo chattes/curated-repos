@@ -52,7 +52,13 @@
     "Interface Design Skills \u2013 Design review skills for agents",
     "JetBrains Thinkrail \u2013 JetBrains' desktop app for agents",
     "TokenSaver \u2013 Token-saving Claude/Codex plugin",
-    "Production Skeleton \u2013 Scaffolding skills for agents"
+    "Production Skeleton \u2013 Scaffolding skills for agents",
+    "Lemo Opuscar",
+    "pixelfx",
+    "Opus 5.5 videos",
+    "Opus video prompts",
+    "Claude Animation Base",
+    "Video ShotCraft"
   ],
   "ai-skill": [
     "Archify",
@@ -95,7 +101,12 @@
     "Anthropic Skills \u2013 Anthropic's own skill library",
     "Interface Design Skills \u2013 Design review skills for agents",
     "TokenSaver \u2013 Token-saving Claude/Codex plugin",
-    "Production Skeleton \u2013 Scaffolding skills for agents"
+    "Production Skeleton \u2013 Scaffolding skills for agents",
+    "Lemo Opuscar",
+    "pixelfx",
+    "Blender MCP",
+    "Opus 5.5 videos",
+    "Video ShotCraft"
   ],
   "architecture": [
     "Archify",
@@ -141,7 +152,9 @@
     "Impeccable \u2013 Design skill for coding agents",
     "Worktrunk \u2013 Git worktrees for parallel agents",
     "Interface Design Skills \u2013 Design review skills for agents",
-    "Ghostty \u2013 Fast native terminal app"
+    "Ghostty \u2013 Fast native terminal app",
+    "Claude Animation Base",
+    "Video ShotCraft"
   ],
   "education": [
     "Archify",
@@ -189,7 +202,12 @@
     "MoneyPrinterTurbo",
     "Anthropic Skills \u2013 Anthropic's own skill library",
     "Ghostty \u2013 Fast native terminal app",
-    "TokenSaver \u2013 Token-saving Claude/Codex plugin"
+    "TokenSaver \u2013 Token-saving Claude/Codex plugin",
+    "Opus 5.5 videos",
+    "Opus video prompts",
+    "React Postprocessing",
+    "librosa",
+    "Video ShotCraft"
   ],
   "open-source": [
     "Archify",
@@ -259,7 +277,13 @@
     "Superpowers \u2013 Working method for coding agents",
     "Anthropic Skills \u2013 Anthropic's own skill library",
     "Worktrunk \u2013 Git worktrees for parallel agents",
-    "TokenSaver \u2013 Token-saving Claude/Codex plugin"
+    "TokenSaver \u2013 Token-saving Claude/Codex plugin",
+    "Lemo Opuscar",
+    "Three.js",
+    "pixelfx",
+    "Opus video prompts",
+    "librosa",
+    "Video ShotCraft"
   ],
   "science": [
     "Archify",
@@ -299,7 +323,12 @@
     "Immich",
     "Kdenlive",
     "MoneyPrinterTurbo",
-    "Rescript"
+    "Rescript",
+    "Lemo Opuscar",
+    "Opus 5.5 videos",
+    "Opus video prompts",
+    "Claude Animation Base",
+    "Video ShotCraft"
   ],
   "browser": [
     "God's Eye View",
@@ -329,7 +358,8 @@
     "claude-seo",
     "coreyhaines31/marketingskills",
     "#3 auto-ontology",
-    "AppFlowy"
+    "AppFlowy",
+    "librosa"
   ],
   "go-lang": [
     "Go Modern Guidelines",
@@ -356,7 +386,10 @@
     "#3 auto-ontology",
     "InvokeAI",
     "ACE-Step",
-    "FluidVoice"
+    "FluidVoice",
+    "Lemo Opuscar",
+    "Blender MCP",
+    "Claude Animation Base"
   ],
   "memory": [
     "Go Modern Guidelines",
@@ -412,7 +445,8 @@
   "social-media": [
     "Postiz",
     "ai-job-search",
-    "TokenSaver \u2013 Token-saving Claude/Codex plugin"
+    "TokenSaver \u2013 Token-saving Claude/Codex plugin",
+    "React Postprocessing"
   ],
   "job-search": [
     "ai-job-search",
@@ -426,7 +460,9 @@
     "FluidVoice",
     "Voicebox",
     "Rescript",
-    "Subvox \u2013 Silent speech with AirPods"
+    "Subvox \u2013 Silent speech with AirPods",
+    "librosa",
+    "Video ShotCraft"
   ],
   "productivity": [
     "Laya"
@@ -446,6 +482,7 @@
   "general": [
     "#9 ziwei-doushu",
     "Vane",
-    "OpenManus"
+    "OpenManus",
+    "React Rapier"
   ]
 }
