@@ -166,7 +166,8 @@
     "Immich",
     "ListMonk",
     "RustDesk",
-    "FluidVoice"
+    "FluidVoice",
+    "MoneyPrinterTurbo"
   ],
   "open-source": [
     "Archify",
@@ -186,7 +187,11 @@
     "Documenso",
     "Penpot",
     "ListMonk",
-    "RustDesk"
+    "RustDesk",
+    "Voicebox",
+    "Kdenlive",
+    "OBS Studio",
+    "Rescript"
   ],
   "programming": [
     "Archify",
@@ -226,7 +231,8 @@
     "#3 auto-ontology",
     "#1 t3code",
     "OpenShorts",
-    "RustDesk"
+    "RustDesk",
+    "Kdenlive"
   ],
   "science": [
     "Archify",
@@ -263,7 +269,10 @@
     "SamurAIGPT/Generative-Media-Skills",
     "InvokeAI",
     "OpenShorts",
-    "Immich"
+    "Immich",
+    "Kdenlive",
+    "MoneyPrinterTurbo",
+    "Rescript"
   ],
   "browser": [
     "God's Eye View",
@@ -277,7 +286,8 @@
     "Shaders",
     "mvanhorn/last30days-skill",
     "Leonxlnx/taste-skill",
-    "#4 Scrapling"
+    "#4 Scrapling",
+    "Rescript"
   ],
   "data-science": [
     "God's Eye View",
@@ -380,7 +390,9 @@
   "audio": [
     "VoiceStudio",
     "SamurAIGPT/Generative-Media-Skills",
-    "FluidVoice"
+    "FluidVoice",
+    "Voicebox",
+    "Rescript"
   ],
   "productivity": [
     "Laya"
