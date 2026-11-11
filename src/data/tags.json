@@ -31,18 +31,19 @@
     "coreyhaines31/marketingskills",
     "Leonxlnx/taste-skill",
     "SamurAIGPT/Generative-Media-Skills",
-    "magic-compact \u2014",
-    "headroom \u2014",
-    "pxpipe \u2014",
-    "token-optimizer-mcp \u2014",
-    "context-mode \u2014",
-    "ponytail \u2014",
-    "graphify \u2014",
-    "OmniRoute \u2014",
-    "codebase-memory-mcp \u2014",
-    "#8 Claude-Code-Game-Studios \u2192",
-    "#6 claude-mem \u2192",
-    "#3 auto-ontology \u2192"
+    "magic-compact",
+    "headroom",
+    "pxpipe",
+    "token-optimizer-mcp",
+    "context-mode",
+    "ponytail",
+    "graphify",
+    "OmniRoute",
+    "codebase-memory-mcp",
+    "#8 Claude-Code-Game-Studios",
+    "#6 claude-mem",
+    "#3 auto-ontology",
+    "OpenShorts"
   ],
   "ai-skill": [
     "Archify",
@@ -70,19 +71,20 @@
     "coreyhaines31/marketingskills",
     "Leonxlnx/taste-skill",
     "SamurAIGPT/Generative-Media-Skills",
-    "magic-compact \u2014",
-    "headroom \u2014",
-    "token-optimizer-mcp \u2014",
-    "context-mode \u2014",
-    "graphify \u2014",
-    "OmniRoute \u2014",
-    "codebase-memory-mcp \u2014",
-    "#10 spec-kit \u2192",
-    "#8 Claude-Code-Game-Studios \u2192"
+    "magic-compact",
+    "headroom",
+    "token-optimizer-mcp",
+    "context-mode",
+    "graphify",
+    "OmniRoute",
+    "codebase-memory-mcp",
+    "#10 spec-kit",
+    "#8 Claude-Code-Game-Studios",
+    "OpenShorts"
   ],
   "architecture": [
     "Archify",
-    "codebase-memory-mcp \u2014"
+    "codebase-memory-mcp"
   ],
   "design": [
     "Archify",
@@ -109,8 +111,11 @@
     "Hyperframes",
     "Matt Pocock's Skills",
     "Diagram Design",
-    "OmniRoute \u2014",
-    "#3 auto-ontology \u2192"
+    "OmniRoute",
+    "#3 auto-ontology",
+    "InvokeAI",
+    "Dyad",
+    "Upscayl"
   ],
   "education": [
     "Archify",
@@ -120,7 +125,7 @@
     "Cortex Suite",
     "claude-seo",
     "DeepTutor",
-    "graphify \u2014"
+    "graphify"
   ],
   "linux": [
     "Archify",
@@ -141,11 +146,15 @@
     "Reimagine It",
     "Radiant",
     "mvanhorn/last30days-skill",
-    "magic-compact \u2014",
-    "token-optimizer-mcp \u2014",
-    "context-mode \u2014",
-    "#8 Claude-Code-Game-Studios \u2192",
-    "#6 claude-mem \u2192"
+    "magic-compact",
+    "token-optimizer-mcp",
+    "context-mode",
+    "#8 Claude-Code-Game-Studios",
+    "#6 claude-mem",
+    "Odysseus",
+    "ACE-Step",
+    "OpenShorts",
+    "Upscayl"
   ],
   "open-source": [
     "Archify",
@@ -155,7 +164,11 @@
     "OpenSEO",
     "Radiant",
     "diwenne/openreply",
-    "#5 OpenMausBot \u2192"
+    "#5 OpenMausBot",
+    "Odysseus",
+    "OpenShorts",
+    "Dyad",
+    "Upscayl"
   ],
   "programming": [
     "Archify",
@@ -180,20 +193,21 @@
     "Diagram Design",
     "coreyhaines31/marketingskills",
     "SamurAIGPT/Generative-Media-Skills",
-    "magic-compact \u2014",
-    "headroom \u2014",
-    "pxpipe \u2014",
-    "leanctx \u2014",
-    "token-optimizer-mcp \u2014",
-    "ponytail \u2014",
-    "graphify \u2014",
-    "OmniRoute \u2014",
-    "codebase-memory-mcp \u2014",
-    "#8 Claude-Code-Game-Studios \u2192",
-    "#6 claude-mem \u2192",
-    "#4 Scrapling \u2192",
-    "#3 auto-ontology \u2192",
-    "#1 t3code \u2192"
+    "magic-compact",
+    "headroom",
+    "pxpipe",
+    "leanctx",
+    "token-optimizer-mcp",
+    "ponytail",
+    "graphify",
+    "OmniRoute",
+    "codebase-memory-mcp",
+    "#8 Claude-Code-Game-Studios",
+    "#6 claude-mem",
+    "#4 Scrapling",
+    "#3 auto-ontology",
+    "#1 t3code",
+    "OpenShorts"
   ],
   "science": [
     "Archify",
@@ -208,7 +222,7 @@
     "Reimagine It",
     "Radiant",
     "mvanhorn/last30days-skill",
-    "freellmapi \u2014"
+    "freellmapi"
   ],
   "video": [
     "Archify",
@@ -225,7 +239,9 @@
     "Hyperframes",
     "Shaders",
     "mvanhorn/last30days-skill",
-    "SamurAIGPT/Generative-Media-Skills"
+    "SamurAIGPT/Generative-Media-Skills",
+    "InvokeAI",
+    "OpenShorts"
   ],
   "browser": [
     "God's Eye View",
@@ -239,7 +255,7 @@
     "Shaders",
     "mvanhorn/last30days-skill",
     "Leonxlnx/taste-skill",
-    "#4 Scrapling \u2192"
+    "#4 Scrapling"
   ],
   "data-science": [
     "God's Eye View",
@@ -253,7 +269,7 @@
     "Open UI",
     "claude-seo",
     "coreyhaines31/marketingskills",
-    "#3 auto-ontology \u2192"
+    "#3 auto-ontology"
   ],
   "go-lang": [
     "Go Modern Guidelines",
@@ -273,11 +289,13 @@
     "claude-seo",
     "Hallmark",
     "VoiceStudio",
-    "freellmapi \u2014",
-    "headroom \u2014",
-    "leanctx \u2014",
-    "OmniRoute \u2014",
-    "#3 auto-ontology \u2192"
+    "freellmapi",
+    "headroom",
+    "leanctx",
+    "OmniRoute",
+    "#3 auto-ontology",
+    "InvokeAI",
+    "ACE-Step"
   ],
   "memory": [
     "Go Modern Guidelines",
@@ -288,13 +306,13 @@
     "RTA Smriti Brain",
     "YouTube Subscriptions Ingest",
     "Radiant",
-    "magic-compact \u2014",
-    "pxpipe \u2014",
-    "token-optimizer-mcp \u2014",
-    "context-mode \u2014",
-    "codebase-memory-mcp \u2014",
-    "#6 claude-mem \u2192",
-    "#3 auto-ontology \u2192"
+    "magic-compact",
+    "pxpipe",
+    "token-optimizer-mcp",
+    "context-mode",
+    "codebase-memory-mcp",
+    "#6 claude-mem",
+    "#3 auto-ontology"
   ],
   "monitoring": [
     "OpenSEO",
@@ -302,7 +320,8 @@
     "TimesFM",
     "Model Deck",
     "YouTube Subscriptions Ingest",
-    "pxpipe \u2014"
+    "pxpipe",
+    "OpenShorts"
   ],
   "seo": [
     "OpenSEO",
@@ -314,14 +333,18 @@
     "BAMA",
     "ai-job-search",
     "diwenne/openreply",
-    "#5 OpenMausBot \u2192"
+    "#5 OpenMausBot",
+    "ACE-Step",
+    "Dyad",
+    "Upscayl"
   ],
   "social-media": [
     "Postiz",
     "ai-job-search"
   ],
   "job-search": [
-    "ai-job-search"
+    "ai-job-search",
+    "InvokeAI"
   ],
   "audio": [
     "VoiceStudio",
@@ -332,9 +355,13 @@
   ],
   "reverse-engineering": [
     "Rea",
-    "leanctx \u2014"
+    "leanctx",
+    "InvokeAI",
+    "Dyad"
   ],
   "general": [
-    "#9 ziwei-doushu \u2192"
+    "#9 ziwei-doushu",
+    "Vane",
+    "OpenManus"
   ]
 }
