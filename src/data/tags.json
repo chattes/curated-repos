@@ -84,7 +84,9 @@
   ],
   "architecture": [
     "Archify",
-    "codebase-memory-mcp"
+    "codebase-memory-mcp",
+    "Excalidraw",
+    "Cal.DIY"
   ],
   "design": [
     "Archify",
@@ -115,7 +117,12 @@
     "#3 auto-ontology",
     "InvokeAI",
     "Dyad",
-    "Upscayl"
+    "Upscayl",
+    "Excalidraw",
+    "Penpot",
+    "ListMonk",
+    "RustDesk",
+    "FluidVoice"
   ],
   "education": [
     "Archify",
@@ -154,7 +161,12 @@
     "Odysseus",
     "ACE-Step",
     "OpenShorts",
-    "Upscayl"
+    "Upscayl",
+    "AppFlowy",
+    "Immich",
+    "ListMonk",
+    "RustDesk",
+    "FluidVoice"
   ],
   "open-source": [
     "Archify",
@@ -168,7 +180,13 @@
     "Odysseus",
     "OpenShorts",
     "Dyad",
-    "Upscayl"
+    "Upscayl",
+    "AppFlowy",
+    "Immich",
+    "Documenso",
+    "Penpot",
+    "ListMonk",
+    "RustDesk"
   ],
   "programming": [
     "Archify",
@@ -207,7 +225,8 @@
     "#4 Scrapling",
     "#3 auto-ontology",
     "#1 t3code",
-    "OpenShorts"
+    "OpenShorts",
+    "RustDesk"
   ],
   "science": [
     "Archify",
@@ -222,7 +241,9 @@
     "Reimagine It",
     "Radiant",
     "mvanhorn/last30days-skill",
-    "freellmapi"
+    "freellmapi",
+    "AppFlowy",
+    "Penpot"
   ],
   "video": [
     "Archify",
@@ -241,7 +262,8 @@
     "mvanhorn/last30days-skill",
     "SamurAIGPT/Generative-Media-Skills",
     "InvokeAI",
-    "OpenShorts"
+    "OpenShorts",
+    "Immich"
   ],
   "browser": [
     "God's Eye View",
@@ -269,7 +291,8 @@
     "Open UI",
     "claude-seo",
     "coreyhaines31/marketingskills",
-    "#3 auto-ontology"
+    "#3 auto-ontology",
+    "AppFlowy"
   ],
   "go-lang": [
     "Go Modern Guidelines",
@@ -295,7 +318,8 @@
     "OmniRoute",
     "#3 auto-ontology",
     "InvokeAI",
-    "ACE-Step"
+    "ACE-Step",
+    "FluidVoice"
   ],
   "memory": [
     "Go Modern Guidelines",
@@ -321,7 +345,8 @@
     "Model Deck",
     "YouTube Subscriptions Ingest",
     "pxpipe",
-    "OpenShorts"
+    "OpenShorts",
+    "ListMonk"
   ],
   "seo": [
     "OpenSEO",
@@ -336,7 +361,11 @@
     "#5 OpenMausBot",
     "ACE-Step",
     "Dyad",
-    "Upscayl"
+    "Upscayl",
+    "AppFlowy",
+    "Documenso",
+    "RustDesk",
+    "FluidVoice"
   ],
   "social-media": [
     "Postiz",
@@ -344,11 +373,14 @@
   ],
   "job-search": [
     "ai-job-search",
-    "InvokeAI"
+    "InvokeAI",
+    "Dub",
+    "RustDesk"
   ],
   "audio": [
     "VoiceStudio",
-    "SamurAIGPT/Generative-Media-Skills"
+    "SamurAIGPT/Generative-Media-Skills",
+    "FluidVoice"
   ],
   "productivity": [
     "Laya"
@@ -357,7 +389,11 @@
     "Rea",
     "leanctx",
     "InvokeAI",
-    "Dyad"
+    "Dyad",
+    "AppFlowy",
+    "ListMonk",
+    "RustDesk",
+    "FluidVoice"
   ],
   "general": [
     "#9 ziwei-doushu",
