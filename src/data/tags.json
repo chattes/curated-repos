@@ -58,7 +58,13 @@
     "Opus 5.5 videos",
     "Opus video prompts",
     "Claude Animation Base",
-    "Video ShotCraft"
+    "Video ShotCraft",
+    "Agent Browser:",
+    "Agent Skills:",
+    "Cloudflare Security Audit Skill:",
+    "Atlas:",
+    "Bomby:",
+    "Rightsize:"
   ],
   "ai-skill": [
     "Archify",
@@ -106,7 +112,10 @@
     "pixelfx",
     "Blender MCP",
     "Opus 5.5 videos",
-    "Video ShotCraft"
+    "Video ShotCraft",
+    "Agent Skills:",
+    "Cloudflare Security Audit Skill:",
+    "Rightsize:"
   ],
   "architecture": [
     "Archify",
@@ -154,7 +163,8 @@
     "Interface Design Skills \u2013 Design review skills for agents",
     "Ghostty \u2013 Fast native terminal app",
     "Claude Animation Base",
-    "Video ShotCraft"
+    "Video ShotCraft",
+    "Daily Stock Analysis:"
   ],
   "education": [
     "Archify",
@@ -207,7 +217,12 @@
     "Opus video prompts",
     "React Postprocessing",
     "librosa",
-    "Video ShotCraft"
+    "Video ShotCraft",
+    "Sherlock:",
+    "Daily Stock Analysis:",
+    "MuJoCo:",
+    "Bomby:",
+    "Sprint Wake Projects:"
   ],
   "open-source": [
     "Archify",
@@ -231,7 +246,8 @@
     "Voicebox",
     "Kdenlive",
     "OBS Studio",
-    "Rescript"
+    "Rescript",
+    "Ember Cloudflare:"
   ],
   "programming": [
     "Archify",
@@ -283,7 +299,13 @@
     "pixelfx",
     "Opus video prompts",
     "librosa",
-    "Video ShotCraft"
+    "Video ShotCraft",
+    "REA Video:",
+    "Ember Cloudflare:",
+    "Agent Browser:",
+    "Bomby:",
+    "Sprint Wake Projects:",
+    "Rightsize:"
   ],
   "science": [
     "Archify",
@@ -328,7 +350,10 @@
     "Opus 5.5 videos",
     "Opus video prompts",
     "Claude Animation Base",
-    "Video ShotCraft"
+    "Video ShotCraft",
+    "OpenGenjutsu:",
+    "REA Video:",
+    "Sherlock:"
   ],
   "browser": [
     "God's Eye View",
@@ -343,7 +368,8 @@
     "mvanhorn/last30days-skill",
     "Leonxlnx/taste-skill",
     "#4 Scrapling",
-    "Rescript"
+    "Rescript",
+    "Agent Browser:"
   ],
   "data-science": [
     "God's Eye View",
@@ -359,7 +385,8 @@
     "coreyhaines31/marketingskills",
     "#3 auto-ontology",
     "AppFlowy",
-    "librosa"
+    "librosa",
+    "Daily Stock Analysis:"
   ],
   "go-lang": [
     "Go Modern Guidelines",
@@ -389,7 +416,9 @@
     "FluidVoice",
     "Lemo Opuscar",
     "Blender MCP",
-    "Claude Animation Base"
+    "Claude Animation Base",
+    "Daily Stock Analysis:",
+    "Rightsize:"
   ],
   "memory": [
     "Go Modern Guidelines",
@@ -417,7 +446,8 @@
     "YouTube Subscriptions Ingest",
     "pxpipe",
     "OpenShorts",
-    "ListMonk"
+    "ListMonk",
+    "Daily Stock Analysis:"
   ],
   "seo": [
     "OpenSEO",
@@ -425,7 +455,8 @@
     "coreyhaines31/marketingskills",
     "jknigel/Valgist-AI-Marketing-Engine",
     "Impeccable \u2013 Design skill for coding agents",
-    "Production Skeleton \u2013 Scaffolding skills for agents"
+    "Production Skeleton \u2013 Scaffolding skills for agents",
+    "Cloudflare Security Audit Skill:"
   ],
   "macos": [
     "BAMA",
@@ -440,13 +471,18 @@
     "RustDesk",
     "FluidVoice",
     "TinyHand \u2013 Mac cursor toy and screen annotation",
-    "Ghostty \u2013 Fast native terminal app"
+    "Ghostty \u2013 Fast native terminal app",
+    "Cloudflare Security Audit Skill:",
+    "Bomby:",
+    "Sprint Wake Projects:"
   ],
   "social-media": [
     "Postiz",
     "ai-job-search",
     "TokenSaver \u2013 Token-saving Claude/Codex plugin",
-    "React Postprocessing"
+    "React Postprocessing",
+    "Sherlock:",
+    "Daily Stock Analysis:"
   ],
   "job-search": [
     "ai-job-search",
@@ -462,10 +498,12 @@
     "Rescript",
     "Subvox \u2013 Silent speech with AirPods",
     "librosa",
-    "Video ShotCraft"
+    "Video ShotCraft",
+    "OpenGenjutsu:"
   ],
   "productivity": [
-    "Laya"
+    "Laya",
+    "Agent Browser:"
   ],
   "reverse-engineering": [
     "Rea",
@@ -477,7 +515,9 @@
     "RustDesk",
     "FluidVoice",
     "JetBrains Thinkrail \u2013 JetBrains' desktop app for agents",
-    "Ghostty \u2013 Fast native terminal app"
+    "Ghostty \u2013 Fast native terminal app",
+    "OpenGenjutsu:",
+    "Bomby:"
   ],
   "general": [
     "#9 ziwei-doushu",
