@@ -59,12 +59,14 @@
     "Opus video prompts",
     "Claude Animation Base",
     "Video ShotCraft",
-    "Agent Browser:",
-    "Agent Skills:",
-    "Cloudflare Security Audit Skill:",
-    "Atlas:",
-    "Bomby:",
-    "Rightsize:"
+    "Agent Browser",
+    "Agent Skills",
+    "Cloudflare Security Audit Skill",
+    "Atlas",
+    "Bomby",
+    "Rightsize",
+    "Sellbird \u2013 AI-powered sales prospecting and outreach",
+    "Novu \u2013 Customer notifications and payment recovery workflows"
   ],
   "ai-skill": [
     "Archify",
@@ -113,15 +115,16 @@
     "Blender MCP",
     "Opus 5.5 videos",
     "Video ShotCraft",
-    "Agent Skills:",
-    "Cloudflare Security Audit Skill:",
-    "Rightsize:"
+    "Agent Skills",
+    "Cloudflare Security Audit Skill",
+    "Rightsize"
   ],
   "architecture": [
     "Archify",
     "codebase-memory-mcp",
     "Excalidraw",
-    "Cal.DIY"
+    "Cal.DIY",
+    "Novu \u2013 Customer notifications and payment recovery workflows"
   ],
   "design": [
     "Archify",
@@ -164,7 +167,8 @@
     "Ghostty \u2013 Fast native terminal app",
     "Claude Animation Base",
     "Video ShotCraft",
-    "Daily Stock Analysis:"
+    "Daily Stock Analysis",
+    "Papermark \u2013 Document sharing and engagement analytics"
   ],
   "education": [
     "Archify",
@@ -218,11 +222,12 @@
     "React Postprocessing",
     "librosa",
     "Video ShotCraft",
-    "Sherlock:",
-    "Daily Stock Analysis:",
-    "MuJoCo:",
-    "Bomby:",
-    "Sprint Wake Projects:"
+    "Sherlock",
+    "Daily Stock Analysis",
+    "MuJoCo",
+    "Bomby",
+    "Sprint Wake Projects",
+    "Sellbird \u2013 AI-powered sales prospecting and outreach"
   ],
   "open-source": [
     "Archify",
@@ -247,7 +252,15 @@
     "Kdenlive",
     "OBS Studio",
     "Rescript",
-    "Ember Cloudflare:"
+    "Ember Cloudflare",
+    "Sellbird \u2013 AI-powered sales prospecting and outreach",
+    "Novu \u2013 Customer notifications and payment recovery workflows",
+    "Chatwoot \u2013 Open-source customer communication platform",
+    "Mautic \u2013 Open-source marketing automation",
+    "Plane \u2013 Open-source project management",
+    "Papermark \u2013 Document sharing and engagement analytics",
+    "GrowthBook \u2013 Open-source experimentation and A/B testing",
+    "Formbricks \u2013 Customer feedback and survey platform"
   ],
   "programming": [
     "Archify",
@@ -300,12 +313,13 @@
     "Opus video prompts",
     "librosa",
     "Video ShotCraft",
-    "REA Video:",
-    "Ember Cloudflare:",
-    "Agent Browser:",
-    "Bomby:",
-    "Sprint Wake Projects:",
-    "Rightsize:"
+    "REA Video",
+    "Ember Cloudflare",
+    "Agent Browser",
+    "Bomby",
+    "Sprint Wake Projects",
+    "Rightsize",
+    "Plane \u2013 Open-source project management"
   ],
   "science": [
     "Archify",
@@ -322,7 +336,8 @@
     "mvanhorn/last30days-skill",
     "freellmapi",
     "AppFlowy",
-    "Penpot"
+    "Penpot",
+    "GrowthBook \u2013 Open-source experimentation and A/B testing"
   ],
   "video": [
     "Archify",
@@ -351,9 +366,9 @@
     "Opus video prompts",
     "Claude Animation Base",
     "Video ShotCraft",
-    "OpenGenjutsu:",
-    "REA Video:",
-    "Sherlock:"
+    "OpenGenjutsu",
+    "REA Video",
+    "Sherlock"
   ],
   "browser": [
     "God's Eye View",
@@ -369,7 +384,8 @@
     "Leonxlnx/taste-skill",
     "#4 Scrapling",
     "Rescript",
-    "Agent Browser:"
+    "Agent Browser",
+    "Meilisearch \u2013 AI-powered search for websites"
   ],
   "data-science": [
     "God's Eye View",
@@ -386,7 +402,9 @@
     "#3 auto-ontology",
     "AppFlowy",
     "librosa",
-    "Daily Stock Analysis:"
+    "Daily Stock Analysis",
+    "Papermark \u2013 Document sharing and engagement analytics",
+    "GrowthBook \u2013 Open-source experimentation and A/B testing"
   ],
   "go-lang": [
     "Go Modern Guidelines",
@@ -417,8 +435,8 @@
     "Lemo Opuscar",
     "Blender MCP",
     "Claude Animation Base",
-    "Daily Stock Analysis:",
-    "Rightsize:"
+    "Daily Stock Analysis",
+    "Rightsize"
   ],
   "memory": [
     "Go Modern Guidelines",
@@ -447,7 +465,7 @@
     "pxpipe",
     "OpenShorts",
     "ListMonk",
-    "Daily Stock Analysis:"
+    "Daily Stock Analysis"
   ],
   "seo": [
     "OpenSEO",
@@ -456,7 +474,9 @@
     "jknigel/Valgist-AI-Marketing-Engine",
     "Impeccable \u2013 Design skill for coding agents",
     "Production Skeleton \u2013 Scaffolding skills for agents",
-    "Cloudflare Security Audit Skill:"
+    "Cloudflare Security Audit Skill",
+    "Mautic \u2013 Open-source marketing automation",
+    "Meilisearch \u2013 AI-powered search for websites"
   ],
   "macos": [
     "BAMA",
@@ -472,23 +492,28 @@
     "FluidVoice",
     "TinyHand \u2013 Mac cursor toy and screen annotation",
     "Ghostty \u2013 Fast native terminal app",
-    "Cloudflare Security Audit Skill:",
-    "Bomby:",
-    "Sprint Wake Projects:"
+    "Cloudflare Security Audit Skill",
+    "Bomby",
+    "Sprint Wake Projects",
+    "Chatwoot \u2013 Open-source customer communication platform",
+    "Plane \u2013 Open-source project management",
+    "Papermark \u2013 Document sharing and engagement analytics",
+    "Formbricks \u2013 Customer feedback and survey platform"
   ],
   "social-media": [
     "Postiz",
     "ai-job-search",
     "TokenSaver \u2013 Token-saving Claude/Codex plugin",
     "React Postprocessing",
-    "Sherlock:",
-    "Daily Stock Analysis:"
+    "Sherlock",
+    "Daily Stock Analysis"
   ],
   "job-search": [
     "ai-job-search",
     "InvokeAI",
     "Dub",
-    "RustDesk"
+    "RustDesk",
+    "Meilisearch \u2013 AI-powered search for websites"
   ],
   "audio": [
     "VoiceStudio",
@@ -499,11 +524,14 @@
     "Subvox \u2013 Silent speech with AirPods",
     "librosa",
     "Video ShotCraft",
-    "OpenGenjutsu:"
+    "OpenGenjutsu"
   ],
   "productivity": [
     "Laya",
-    "Agent Browser:"
+    "Agent Browser",
+    "Sellbird \u2013 AI-powered sales prospecting and outreach",
+    "Chatwoot \u2013 Open-source customer communication platform",
+    "Mautic \u2013 Open-source marketing automation"
   ],
   "reverse-engineering": [
     "Rea",
@@ -516,8 +544,9 @@
     "FluidVoice",
     "JetBrains Thinkrail \u2013 JetBrains' desktop app for agents",
     "Ghostty \u2013 Fast native terminal app",
-    "OpenGenjutsu:",
-    "Bomby:"
+    "OpenGenjutsu",
+    "Bomby",
+    "Meilisearch \u2013 AI-powered search for websites"
   ],
   "general": [
     "#9 ziwei-doushu",
