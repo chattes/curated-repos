@@ -66,7 +66,9 @@
     "Bomby",
     "Rightsize",
     "Sellbird \u2013 AI-powered sales prospecting and outreach",
-    "Novu \u2013 Customer notifications and payment recovery workflows"
+    "Novu \u2013 Customer notifications and payment recovery workflows",
+    "Bytebot",
+    "SurfSense"
   ],
   "ai-skill": [
     "Archify",
@@ -117,7 +119,10 @@
     "Video ShotCraft",
     "Agent Skills",
     "Cloudflare Security Audit Skill",
-    "Rightsize"
+    "Rightsize",
+    "Termix",
+    "komari",
+    "omni-tools"
   ],
   "architecture": [
     "Archify",
@@ -168,7 +173,11 @@
     "Claude Animation Base",
     "Video ShotCraft",
     "Daily Stock Analysis",
-    "Papermark \u2013 Document sharing and engagement analytics"
+    "Papermark \u2013 Document sharing and engagement analytics",
+    "Bytebot",
+    "Rybbit",
+    "HeadlessX",
+    "Glass Keep"
   ],
   "education": [
     "Archify",
@@ -227,7 +236,16 @@
     "MuJoCo",
     "Bomby",
     "Sprint Wake Projects",
-    "Sellbird \u2013 AI-powered sales prospecting and outreach"
+    "Sellbird \u2013 AI-powered sales prospecting and outreach",
+    "Bytebot",
+    "airi",
+    "BillionMail",
+    "HeadlessX",
+    "HomeHub",
+    "Dockpeek",
+    "Termix",
+    "omni-tools",
+    "chhoto-url"
   ],
   "open-source": [
     "Archify",
@@ -260,7 +278,16 @@
     "Plane \u2013 Open-source project management",
     "Papermark \u2013 Document sharing and engagement analytics",
     "GrowthBook \u2013 Open-source experimentation and A/B testing",
-    "Formbricks \u2013 Customer feedback and survey platform"
+    "Formbricks \u2013 Customer feedback and survey platform",
+    "Bytebot",
+    "Rybbit",
+    "BillionMail",
+    "HeadlessX",
+    "HomeHub",
+    "Termix",
+    "SurfSense",
+    "omni-tools",
+    "chhoto-url"
   ],
   "programming": [
     "Archify",
@@ -319,7 +346,9 @@
     "Bomby",
     "Sprint Wake Projects",
     "Rightsize",
-    "Plane \u2013 Open-source project management"
+    "Plane \u2013 Open-source project management",
+    "Glass Keep",
+    "chhoto-url"
   ],
   "science": [
     "Archify",
@@ -337,7 +366,9 @@
     "freellmapi",
     "AppFlowy",
     "Penpot",
-    "GrowthBook \u2013 Open-source experimentation and A/B testing"
+    "GrowthBook \u2013 Open-source experimentation and A/B testing",
+    "HeadlessX",
+    "SurfSense"
   ],
   "video": [
     "Archify",
@@ -368,7 +399,8 @@
     "Video ShotCraft",
     "OpenGenjutsu",
     "REA Video",
-    "Sherlock"
+    "Sherlock",
+    "PigeonPod"
   ],
   "browser": [
     "God's Eye View",
@@ -385,7 +417,11 @@
     "#4 Scrapling",
     "Rescript",
     "Agent Browser",
-    "Meilisearch \u2013 AI-powered search for websites"
+    "Meilisearch \u2013 AI-powered search for websites",
+    "airi",
+    "HeadlessX",
+    "Dockpeek",
+    "omni-tools"
   ],
   "data-science": [
     "God's Eye View",
@@ -404,7 +440,8 @@
     "librosa",
     "Daily Stock Analysis",
     "Papermark \u2013 Document sharing and engagement analytics",
-    "GrowthBook \u2013 Open-source experimentation and A/B testing"
+    "GrowthBook \u2013 Open-source experimentation and A/B testing",
+    "Rybbit"
   ],
   "go-lang": [
     "Go Modern Guidelines",
@@ -465,7 +502,9 @@
     "pxpipe",
     "OpenShorts",
     "ListMonk",
-    "Daily Stock Analysis"
+    "Daily Stock Analysis",
+    "komari",
+    "omni-tools"
   ],
   "seo": [
     "OpenSEO",
@@ -476,7 +515,8 @@
     "Production Skeleton \u2013 Scaffolding skills for agents",
     "Cloudflare Security Audit Skill",
     "Mautic \u2013 Open-source marketing automation",
-    "Meilisearch \u2013 AI-powered search for websites"
+    "Meilisearch \u2013 AI-powered search for websites",
+    "BillionMail"
   ],
   "macos": [
     "BAMA",
@@ -498,7 +538,11 @@
     "Chatwoot \u2013 Open-source customer communication platform",
     "Plane \u2013 Open-source project management",
     "Papermark \u2013 Document sharing and engagement analytics",
-    "Formbricks \u2013 Customer feedback and survey platform"
+    "Formbricks \u2013 Customer feedback and survey platform",
+    "airi",
+    "Rybbit",
+    "Glass Keep",
+    "SurfSense"
   ],
   "social-media": [
     "Postiz",
@@ -524,14 +568,17 @@
     "Subvox \u2013 Silent speech with AirPods",
     "librosa",
     "Video ShotCraft",
-    "OpenGenjutsu"
+    "OpenGenjutsu",
+    "airi"
   ],
   "productivity": [
     "Laya",
     "Agent Browser",
     "Sellbird \u2013 AI-powered sales prospecting and outreach",
     "Chatwoot \u2013 Open-source customer communication platform",
-    "Mautic \u2013 Open-source marketing automation"
+    "Mautic \u2013 Open-source marketing automation",
+    "BillionMail",
+    "HeadlessX"
   ],
   "reverse-engineering": [
     "Rea",
@@ -546,12 +593,15 @@
     "Ghostty \u2013 Fast native terminal app",
     "OpenGenjutsu",
     "Bomby",
-    "Meilisearch \u2013 AI-powered search for websites"
+    "Meilisearch \u2013 AI-powered search for websites",
+    "SurfSense"
   ],
   "general": [
     "#9 ziwei-doushu",
     "Vane",
     "OpenManus",
-    "React Rapier"
+    "React Rapier",
+    "Dispatcharr",
+    "Foxel"
   ]
 }
